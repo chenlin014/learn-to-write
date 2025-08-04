@@ -2,7 +2,7 @@ import csv, yaml
 from tqdm import tqdm
 
 HINT_QUOTA = 3
-HINT_DELIM = '，'
+HINT_DELIM = '、'
 
 with open('char-set/std_common_chars.yaml') as f:
     std_common_chars = yaml.safe_load(f)

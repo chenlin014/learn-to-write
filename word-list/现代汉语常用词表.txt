@@ -326,7 +326,7 @@
 应当	ying1'dang1	326
 王	wang2	327
 早	zao3	328
-女	nv3	329
+女	nü3	329
 门	men2	330
 个人	ge4'ren2	331
 座	zuo4	332
@@ -545,7 +545,7 @@
 主席	zhu3'xi2	545
 严重	yan2'zhong4	546
 容易	rong2'yi4	547
-法律	fa3'lv4	548
+法律	fa3'lü4	548
 建立	jian4'li4	549
 还	hai2	550
 其实	qi2'shi2	551
@@ -654,7 +654,7 @@
 套	tao4	654
 干	gan4	655
 结束	jie2'shu4	656
-妇女	fu4'nv3	657
+妇女	fu4'nü3	657
 教授	jiao4'shou4	658
 军事	jun1'shi4	659
 基本	ji1'ben3	660
@@ -675,7 +675,7 @@
 活	huo2	675
 子	zi3	676
 往往	wang3'wang3	677
-考虑	kao3'lv4	678
+考虑	kao3'lü4	678
 重大	zhong4'da4	679
 收	shou1	680
 旧	jiu4	681
@@ -853,7 +853,7 @@
 怕	pa4	853
 只	zhi3	854
 忙	mang2	855
-女子	nv3'zi3	856
+女子	nü3'zi3	856
 排	pai2	857
 偏	pian1	858
 曾经	ceng2'jing1	859
@@ -930,7 +930,7 @@
 亩	mu3	930
 建议	jian4'yi4	931
 镇	zhen4	932
-女儿	nv3'er2	933
+女儿	nü3'er2	933
 特殊	te4'shu1	934
 装	zhuang1	935
 陈	chen2	936
@@ -1069,7 +1069,7 @@
 破坏	po4'huai4	1069
 看来	kan4'lai2	1070
 适应	shi4'ying4	1071
-战略	zhan4'lve4	1072
+战略	zhan4'lüe4	1072
 天气	tian1'qi4	1073
 急	ji2	1074
 度	du4	1075
@@ -1164,7 +1164,7 @@
 体	ti3	1164
 戏	xi4	1165
 拍	pai1	1166
-绿	lv4	1167
+绿	lü4	1167
 出发	chu1'fa1	1168
 房	fang2	1169
 实际上	shi2'ji4'shang4	1170
@@ -1261,7 +1261,7 @@
 委员	wei3'yuan2	1261
 亦	yi4	1262
 商品	shang1'pin3	1263
-规律	gui1'lv4	1264
+规律	gui1'lü4	1264
 观察	guan1'cha2	1265
 鼓励	gu3'li4	1266
 局	ju2	1267
@@ -1451,7 +1451,7 @@
 一半	yi1'ban4	1451
 西部	xi1'bu4	1452
 规范	gui1'fan4	1453
-绿色	lv4'se4	1454
+绿色	lü4'se4	1454
 一面	yi1'mian4	1455
 落	luo4	1456
 相对	xiang1'dui4	1457
@@ -1555,7 +1555,7 @@
 衣服	yi1'fu	1555
 尚未	shang4'wei4	1556
 贸易	mao4'yi4	1557
-旅游	lv3'you2	1558
+旅游	lü3'you2	1558
 值	zhi2	1559
 车	che1	1560
 街	jie1	1561
@@ -1818,7 +1818,7 @@
 复	fu4	1818
 前面	qian2'mian	1819
 一阵	yi1'zhen4	1820
-女人	nv3'ren2	1821
+女人	nü3'ren2	1821
 威胁	wei1'xie2	1822
 系列	xi4'lie4	1823
 事故	shi4'gu4	1824
@@ -1858,7 +1858,7 @@
 穷	qiong2	1858
 气氛	qi4'fen1	1859
 石油	shi2'you2	1860
-效率	xiao4'lv4	1861
+效率	xiao4'lü4	1861
 防止	fang2'zhi3	1862
 海洋	hai3'yang2	1863
 食	shi2	1864
@@ -1866,7 +1866,7 @@
 加大	jia1'da4	1866
 特征	te4'zheng1	1867
 所在	suo3'zai4	1868
-女士	nv3'shi4	1869
+女士	nü3'shi4	1869
 用户	yong4'hu4	1870
 激烈	ji1'lie4	1871
 执法	zhi2'fa3	1872
@@ -1979,7 +1979,7 @@
 疾病	ji2'bing4	1979
 本质	ben3'zhi4	1980
 发达	fa1'da2	1981
-律师	lv4'shi1	1982
+律师	lü4'shi1	1982
 白天	bai2'tian1	1983
 接近	jie1'jin4	1984
 团体	tuan2'ti3	1985
@@ -2087,7 +2087,7 @@
 夹	jia1	2087
 主人	zhu3'ren2	2088
 存	cun2	2089
-男女	nan2'nv3	2090
+男女	nan2'nü3	2090
 讯	xun4	2091
 深化	shen1'hua4	2092
 司法	si1'fa3	2093
@@ -2140,7 +2140,7 @@
 种种	zhong3'zhong3	2140
 仅仅	jin3'jin3	2141
 十一	shi2'yi1	2142
-女性	nv3'xing4	2143
+女性	nü3'xing4	2143
 南方	nan2'fang1	2144
 跨	kua4	2145
 克服	ke4'fu2	2146
@@ -2200,7 +2200,7 @@
 现有	xian4'you3	2200
 进来	jin4'lai	2201
 发动	fa1'dong4	2202
-履行	lv3'xing2	2203
+履行	lü3'xing2	2203
 外面	wai4'mian4	2204
 事务	shi4'wu4	2205
 地面	di4'mian4	2206
@@ -2294,7 +2294,7 @@
 县委	xian4'wei3	2294
 闯	chuang3	2295
 提前	ti2'qian2	2296
-略	lve4	2297
+略	lüe4	2297
 艺术家	yi4'shu4'jia1	2298
 之下	zhi1'xia4	2299
 非法	fei1'fa3	2300
@@ -2323,7 +2323,7 @@
 骂	ma4	2323
 等待	deng3'dai4	2324
 一行	yi1'xing2	2325
-子女	zi3'nv3	2326
+子女	zi3'nü3	2326
 源	yuan2	2327
 上级	shang4'ji2	2328
 欠	qian4	2329
@@ -2334,7 +2334,7 @@
 本主儿	ben3'zhu3'er	2334
 打算	da3'suan	2335
 屋	wu1	2336
-纪律	ji4'lv4	2337
+纪律	ji4'lü4	2337
 爱国	ai4'guo2	2338
 港	gang3	2339
 曲	qu3	2340
@@ -2689,7 +2689,7 @@
 减	jian3	2689
 活跃	huo2'yue4	2690
 竟然	jing4'ran2	2691
-一律	yi1'lv4	2692
+一律	yi1'lü4	2692
 自行车	zi4'xing2'che1	2693
 再说	zai4'shuo1	2694
 礼	li3	2695
@@ -2860,7 +2860,7 @@
 耕	geng1	2860
 毕业生	bi4'ye4'sheng1	2861
 循环	xun2'huan2	2862
-旅	lv3	2863
+旅	lü3	2863
 网站	wang3'zhan4	2864
 研讨会	yan2'tao3'hui4	2865
 检测	jian3'ce4	2866
@@ -2882,7 +2882,7 @@
 年度	nian2'du4	2882
 妻	qi1	2883
 劳动者	lao2'dong4'zhe3	2884
-旅客	lv3'ke4	2885
+旅客	lü3'ke4	2885
 玉	yu4	2886
 游戏	you2'xi4	2887
 人权	ren2'quan2	2888
@@ -2957,7 +2957,7 @@
 金牌	jin1'pai2	2957
 公众	gong1'zhong4	2958
 监	jian1	2959
-绿化	lv4'hua4	2960
+绿化	lü4'hua4	2960
 江西	jiang1'xi1	2961
 遵守	zun1'shou3	2962
 哪些	na3'xie1	2963
@@ -3075,7 +3075,7 @@
 谢	xie4	3075
 优惠	you1'hui4	3076
 寻	xun2	3077
-儿女	er2'nv3	3078
+儿女	er2'nü3	3078
 各方	ge4'fang1	3079
 退休	tui4'xiu1	3080
 不顾	bu4'gu4	3081
@@ -3279,7 +3279,7 @@
 塔	ta3	3279
 盯	ding1	3280
 原理	yuan2'li3	3281
-侵略	qin1'lve4	3282
+侵略	qin1'lüe4	3282
 神秘	shen2'mi4	3283
 玉米	yu4'mi3	3284
 原始	yuan2'shi3	3285
@@ -3866,7 +3866,7 @@
 民兵	min2'bing1	3866
 丧失	sang4'shi1	3867
 参	can1	3868
-女孩儿	nv3'hai2'er	3869
+女孩儿	nü3'hai2'er	3869
 复兴	fu4'xing1	3870
 有序	you3'xu4	3871
 执	zhi2	3872
@@ -3919,7 +3919,7 @@
 动手	dong4'shou3	3919
 栽	zai1	3920
 勇敢	yong3'gan3	3921
-概率	gai4'lv4	3922
+概率	gai4'lü4	3922
 庙	miao4	3923
 全身	quan2'shen1	3924
 限度	xian4'du4	3925
@@ -4502,12 +4502,12 @@
 干警	gan4'jing3	4502
 订	ding4	4503
 国债	guo2'zhai4	4504
-利率	li4'lv4	4505
+利率	li4'lü4	4505
 味道	wei4'dao4	4506
 呼唤	hu1'huan4	4507
 向上	xiang4'shang4	4508
 不止	bu4'zhi3	4509
-旅游业	lv3'you2'ye4	4510
+旅游业	lü3'you2'ye4	4510
 保健	bao3'jian4	4511
 化肥	hua4'fei2	4512
 模型	mo2'xing2	4513
@@ -4582,7 +4582,7 @@
 被告	bei4'gao4	4582
 咽	yan4	4583
 大选	da4'xuan3	4584
-屡	lv3	4585
+屡	lü3	4585
 下列	xia4'lie4	4586
 人为	ren2'wei2	4587
 横	heng4	4588
@@ -4691,7 +4691,7 @@
 全心全意	quan2'xin1'quan2'yi4	4691
 打听	da3'ting	4692
 奖金	jiang3'jin1	4693
-少女	shao4'nv3	4694
+少女	shao4'nü3	4694
 传	zhuan4	4695
 本国	ben3'guo2	4696
 准则	zhun3'ze2	4697
@@ -5001,7 +5001,7 @@
 礼物	li3'wu4	5001
 尴尬	gan1'ga4	5002
 合并	he2'bing4	5003
-策略	ce4'lve4	5004
+策略	ce4'lüe4	5004
 军民	jun1'min2	5005
 统一战线	tong3'yi1'zhan4'xian4	5006
 例子	li4'zi3	5007
@@ -5196,7 +5196,7 @@
 务实	wu4'shi2	5196
 盗	dao4	5197
 战役	zhan4'yi4	5198
-菲律宾	fei3'lv4'bin1	5199
+菲律宾	fei3'lü4'bin1	5199
 瞎	xia1	5200
 委屈	wei3'qu	5201
 影视	ying3'shi4	5202
@@ -5270,7 +5270,7 @@
 大姐	da4'jie3	5270
 贫	pin2	5271
 原先	yuan2'xian1	5272
-增长率	zeng1'zhang3'lv4	5273
+增长率	zeng1'zhang3'lü4	5273
 凶	xiong1	5274
 无论如何	wu2'lun4'ru2'he2	5275
 豆	dou4	5276
@@ -5314,7 +5314,7 @@
 发布会	fa1'bu4'hui4	5314
 侦查	zhen1'cha2	5315
 术	shu4	5316
-旅馆	lv3'guan3	5317
+旅馆	lü3'guan3	5317
 商家	shang1'jia1	5318
 国家队	guo2'jia1'dui4	5319
 旺	wang4	5320
@@ -5359,7 +5359,7 @@
 中期	zhong1'qi1	5359
 念头	nian4'tou2	5360
 号码	hao4'ma3	5361
-旅行	lv3'xing2	5362
+旅行	lü3'xing2	5362
 天气预报	tian1'qi4'yu4'bao4	5363
 汉子	han4'zi3	5364
 储蓄	chu3'xu4	5365
@@ -5454,7 +5454,7 @@
 举动	ju3'dong4	5454
 植树	zhi2'shu4	5455
 前列	qian2'lie4	5456
-驴	lv2	5457
+驴	lü2	5457
 犹	you2	5458
 无从	wu2'cong2	5459
 分解	fen1'jie3	5460
@@ -5998,7 +5998,7 @@
 专业化	zhuan1'ye4'hua4	5998
 缅甸	mian3'dian4	5999
 实地	shi2'di4	6000
-铝	lv3	6001
+铝	lü3	6001
 永久	yong3'jiu3	6002
 譬如	pi4'ru2	6003
 教员	jiao4'yuan2	6004
@@ -6036,7 +6036,7 @@
 跳舞	tiao4'wu3	6036
 林木	lin2'mu4	6037
 湘	xiang1	6038
-律	lv4	6039
+律	lü4	6039
 大嫂	da4'sao3	6040
 辖区	xia2'qu1	6041
 可笑	ke3'xiao4	6042
@@ -6091,7 +6091,7 @@
 自称	zi4'cheng1	6091
 肌肉	ji1'rou4	6092
 赔	pei2	6093
-忧虑	you1'lv4	6094
+忧虑	you1'lü4	6094
 电视机	dian4'shi4'ji1	6095
 老头子	lao3'tou2'zi3	6096
 侵权	qin1'quan2	6097
@@ -6122,7 +6122,7 @@
 囊	nang2	6122
 相处	xiang1'chu3	6123
 靠近	kao4'jin4	6124
-汇率	hui4'lv4	6125
+汇率	hui4'lü4	6125
 热潮	re4'chao2	6126
 押	ya1	6127
 范畴	fan4'chou2	6128
@@ -6143,7 +6143,7 @@
 岂不	qi3'bu4	6143
 抢险	qiang3'xian3	6144
 日元	ri4'yuan2	6145
-频率	pin2'lv4	6146
+频率	pin2'lü4	6146
 播种	bo1'zhong3	6147
 个个	ge4'ge4	6148
 数目	shu4'mu4	6149
@@ -6251,8 +6251,8 @@
 历	li4	6251
 三角	san1'jiao3	6252
 假若	jia3'ruo4	6253
-旅行社	lv3'xing2'she4	6254
-覆盖率	fu4'gai4'lv4	6255
+旅行社	lü3'xing2'she4	6254
+覆盖率	fu4'gai4'lü4	6255
 索性	suo3'xing4	6256
 窜	cuan4	6257
 暗暗	an4'an4	6258
@@ -6469,7 +6469,7 @@
 舍不得	she3'bu'de	6469
 价钱	jia4'qian	6470
 分量	fen4'liang4	6471
-女足	nv3'zu2	6472
+女足	nü3'zu2	6472
 生成	sheng1'cheng2	6473
 咳嗽	ke2'sou	6474
 采集	cai3'ji2	6475
@@ -6601,7 +6601,7 @@
 担忧	dan1'you1	6601
 有无	you3'wu2	6602
 物业	wu4'ye4	6603
-自律	zi4'lv4	6604
+自律	zi4'lü4	6604
 风景区	feng1'jing3'qu1	6605
 定点	ding4'dian3	6606
 分流	fen1'liu2	6607
@@ -6679,12 +6679,12 @@
 庭	ting2	6679
 花费	hua1'fei4	6680
 径	jing4	6681
-忽略	hu1'lve4	6682
+忽略	hu1'lüe4	6682
 赠	zeng4	6683
 遇见	yu4'jian4	6684
 名将	ming2'jiang1	6685
 子孙	zi3'sun1	6686
-女工	nv3'gong1	6687
+女工	nü3'gong1	6687
 夺冠	duo2'guan4	6688
 贺电	he4'dian4	6689
 自然保护区	zi4'ran2'bao3'hu4'qu1	6690
@@ -6762,7 +6762,7 @@
 垫	dian4	6762
 富民	fu4'min2	6763
 争端	zheng1'duan1	6764
-方略	fang1'lve4	6765
+方略	fang1'lüe4	6765
 社论	she4'lun4	6766
 西洋	xi1'yang2	6767
 阴谋	yin1'mou2	6768
@@ -6860,7 +6860,7 @@
 惊喜	jing1'xi3	6860
 纪念馆	ji4'nian4'guan3	6861
 一番	yi1'fan1	6862
-掠	lve4	6863
+掠	lüe4	6863
 兼并	jian1'bing4	6864
 勤奋	qin2'fen4	6865
 勾	gou1	6866
@@ -6876,7 +6876,7 @@
 想来	xiang3'lai2	6876
 公款	gong1'kuan3	6877
 尺度	chi3'du4	6878
-女生	nv3'sheng1	6879
+女生	nü3'sheng1	6879
 分化	fen1'hua4	6880
 导师	dao3'shi1	6881
 高压	gao1'ya1	6882
@@ -6927,7 +6927,7 @@
 图像	tu2'xiang4	6927
 氢	qing1	6928
 简报	jian3'bao4	6929
-女排	nv3'pai2	6930
+女排	nü3'pai2	6930
 数字化	shu4'zi4'hua4	6931
 临近	lin2'jin4	6932
 剥夺	bo1'duo2	6933
@@ -7091,7 +7091,7 @@
 视线	shi4'xian4	7091
 白云	bai2'yun2	7092
 削减	xue1'jian3	7093
-绿地	lv4'di4	7094
+绿地	lü4'di4	7094
 有期徒刑	you3'qi1'tu2'xing2	7095
 温室	wen1'shi4	7096
 缝	feng4	7097
@@ -7211,7 +7211,7 @@
 理论上	li3'lun4'shang4	7211
 遮	zhe1	7212
 有的是	you3'de'shi4	7213
-缕	lv3	7214
+缕	lü3	7214
 潘	pan1	7215
 下雨	xia4'yu3	7216
 建材	jian4'cai2	7217
@@ -7446,7 +7446,7 @@
 歌剧	ge1'ju4	7446
 坚守	jian1'shou3	7447
 旺盛	wang4'sheng4	7448
-旋律	xuan2'lv4	7449
+旋律	xuan2'lü4	7449
 总长	zong3'zhang3	7450
 屁	pi4	7451
 航	hang2	7452
@@ -7480,7 +7480,7 @@
 撇	pie1	7480
 光盘	guang1'pan2	7481
 全线	quan2'xian4	7482
-女婿	nv3'xu	7483
+女婿	nü3'xu	7483
 料到	liao4'dao4	7484
 往后	wang3'hou4	7485
 捍卫	han4'wei4	7486
@@ -7558,7 +7558,7 @@
 天生	tian1'sheng1	7558
 东海	dong1'hai3	7559
 服务员	fu2'wu4'yuan2	7560
-吕	lv3	7561
+吕	lü3	7561
 搜集	sou1'ji2	7562
 献身	xian4'shen1	7563
 专访	zhuan1'fang3	7564
@@ -7893,7 +7893,7 @@
 巡视	xun2'shi4	7893
 用工	yong4'gong1	7894
 古怪	gu3'guai4	7895
-主旋律	zhu3'xuan2'lv4	7896
+主旋律	zhu3'xuan2'lü4	7896
 大坝	da4'ba4	7897
 前边	qian2'bian	7898
 跟随	gen1'sui2	7899
@@ -8006,7 +8006,7 @@
 干	gan1	8006
 制假	zhi4'jia3	8007
 总得	zong3'dei3	8008
-税率	shui4'lv4	8009
+税率	shui4'lü4	8009
 夕	xi1	8010
 点心	dian3'xin1	8011
 出差	chu1'chai1	8012
@@ -8186,7 +8186,7 @@
 沿途	yan2'tu2	8186
 粒子	li4'zi3	8187
 裙子	qun2'zi3	8188
-闺女	gui1'nv	8189
+闺女	gui1'nü	8189
 细则	xi4'ze2	8190
 定额	ding4'e2	8191
 媒介	mei2'jie4	8192
@@ -8250,7 +8250,7 @@
 图画	tu2'hua4	8250
 行程	xing2'cheng2	8251
 杂交	za2'jiao1	8252
-利用率	li4'yong4'lv4	8253
+利用率	li4'yong4'lü4	8253
 娘家	niang2'jia	8254
 素养	su4'yang3	8255
 指头	zhi3'tou2	8256
@@ -8365,7 +8365,7 @@
 导游	dao3'you2	8365
 庆典	qing4'dian3	8366
 信托	xin4'tuo1	8367
-顾虑	gu4'lv4	8368
+顾虑	gu4'lü4	8368
 山头	shan1'tou2	8369
 失利	shi1'li4	8370
 下山	xia4'shan1	8371
@@ -8386,7 +8386,7 @@
 行事	xing2'shi4	8386
 不乏	bu4'fa2	8387
 成千上万	cheng2'qian1'shang4'wan4	8388
-领略	ling3'lve4	8389
+领略	ling3'lüe4	8389
 剖析	pou1'xi1	8390
 同伴	tong2'ban4	8391
 除去	chu2'qu4	8392
@@ -8803,7 +8803,7 @@
 瓷	ci2	8803
 当兵	dang1'bing1	8804
 时下	shi2'xia4	8805
-疑虑	yi2'lv4	8806
+疑虑	yi2'lü4	8806
 新风	xin1'feng1	8807
 杯赛	bei1'sai4	8808
 躬	gong1	8809
@@ -8845,7 +8845,7 @@
 出具	chu1'ju4	8845
 通知书	tong1'zhi1'shu1	8846
 行政处罚	xing2'zheng4'chu4'fa2	8847
-焦虑	jiao1'lv4	8848
+焦虑	jiao1'lü4	8848
 损坏	sun3'huai4	8849
 报考	bao4'kao3	8850
 雕	diao1	8851
@@ -9107,7 +9107,7 @@
 检索	jian3'suo3	9107
 出行	chu1'xing2	9108
 疾苦	ji2'ku3	9109
-死亡率	si3'wang2'lv4	9110
+死亡率	si3'wang2'lü4	9110
 医师	yi1'shi1	9111
 纸条	zhi3'tiao2	9112
 各行各业	ge4'xing2'ge4'ye4	9113
@@ -9289,7 +9289,7 @@
 亟待	ji2'dai4	9289
 源远流长	yuan2'yuan3'liu2'chang2	9290
 当天	dang4'tian1	9291
-功率	gong1'lv4	9292
+功率	gong1'lü4	9292
 海边	hai3'bian1	9293
 尽头	jin4'tou2	9294
 侵占	qin1'zhan4	9295
@@ -9354,7 +9354,7 @@
 偏见	pian1'jian4	9354
 颗粒	ke1'li4	9355
 反弹	fan3'tan2	9356
-劳动生产率	lao2'dong4'sheng1'chan3'lv4	9357
+劳动生产率	lao2'dong4'sheng1'chan3'lü4	9357
 确诊	que4'zhen3	9358
 制售	zhi4'shou4	9359
 拜年	bai4'nian2	9360
@@ -9426,7 +9426,7 @@
 亩产	mu3'chan3	9426
 超载	chao1'zai4	9427
 津贴	jin1'tie1	9428
-绿洲	lv4'zhou1	9429
+绿洲	lü4'zhou1	9429
 世俗	shi4'su2	9430
 崖	ya2	9431
 终端	zhong1'duan1	9432
@@ -9695,7 +9695,7 @@
 出力	chu1'li4	9695
 担	dan4	9696
 集贸市场	ji2'mao4'shi4'chang3	9697
-妓女	ji4'nv3	9698
+妓女	ji4'nü3	9698
 军政	jun1'zheng4	9699
 条文	tiao2'wen2	9700
 陷阱	xian4'jing3	9701
@@ -9774,7 +9774,7 @@
 平息	ping2'xi1	9774
 枪支	qiang1'zhi1	9775
 诸位	zhu1'wei4	9776
-定律	ding4'lv4	9777
+定律	ding4'lü4	9777
 董事	dong3'shi4	9778
 恶心	e3'xin	9779
 家家	jia1'jia1	9780
@@ -9808,7 +9808,7 @@
 屠杀	tu2'sha1	9808
 自力更生	zi4'li4'geng1'sheng1	9809
 传染性	chuan2'ran3'xing4	9810
-规律性	gui1'lv4'xing4	9811
+规律性	gui1'lü4'xing4	9811
 名气	ming2'qi4	9812
 误导	wu4'dao3	9813
 动身	dong4'shen1	9814
@@ -9964,7 +9964,7 @@
 淡化	dan4'hua4	9964
 揭幕	jie1'mu4	9965
 路程	lu4'cheng2	9966
-绿色通道	lv4'se4'tong1'dao4	9967
+绿色通道	lü4'se4'tong1'dao4	9967
 秘	mi4	9968
 梳理	shu1'li3	9969
 小心翼翼	xiao3'xin1'yi4'yi4	9970
@@ -10005,7 +10005,7 @@
 侧重	ce4'zhong4	10005
 鼎	ding3	10006
 废旧	fei4'jiu4	10007
-母女	mu3'nv3	10008
+母女	mu3'nü3	10008
 瓶子	ping2'zi3	10009
 牲口	sheng1'kou3	10010
 长寿	chang2'shou4	10011
@@ -10394,7 +10394,7 @@
 尘土	chen2'tu3	10394
 发誓	fa1'shi4	10395
 聆听	ling2'ting1	10396
-屡屡	lv3'lv3	10397
+屡屡	lü3'lü3	10397
 通电	tong1'dian4	10398
 铜牌	tong2'pai2	10399
 畜禽	chu4'qin2	10400
@@ -10567,7 +10567,7 @@
 毁坏	hui3'huai4	10567
 降雨	jiang4'yu3	10568
 兽医	shou4'yi1	10569
-肆虐	si4'nve4	10570
+肆虐	si4'nüe4	10570
 穴	xue2	10571
 译本	yi4'ben3	10572
 真实性	zhen1'shi2'xing4	10573
@@ -10835,12 +10835,12 @@
 不致	bu4'zhi4	10835
 共存	gong4'cun2	10836
 激进	ji1'jin4	10837
-掠夺	lve4'duo2	10838
+掠夺	lüe4'duo2	10838
 失信	shi1'xin4	10839
 丝绸之路	si1'chou2'zhi1'lu4	10840
 元年	yuan2'nian2	10841
 关押	guan1'ya1	10842
-女单	nv3'dan1	10843
+女单	nü3'dan1	10843
 偕	xie2	10844
 宰相	zai3'xiang4	10845
 博士后	bo2'shi4'hou4	10846
@@ -10898,7 +10898,7 @@
 格式	ge2'shi	10898
 教养	jiao4'yang3	10899
 空地	kong4'di4	10900
-美女	mei3'nv3	10901
+美女	mei3'nü3	10901
 融洽	rong2'qia4	10902
 丝绸	si1'chou2	10903
 晚期	wan3'qi1	10904
@@ -11243,7 +11243,7 @@
 中年人	zhong1'nian2'ren2	11243
 沉静	chen2'jing4	11244
 简短	jian3'duan3	11245
-氯	lv4	11246
+氯	lü4	11246
 免除	mian3'chu2	11247
 珊瑚	shan1'hu2	11248
 生计	sheng1'ji4	11249
@@ -11316,7 +11316,7 @@
 就近	jiu4'jin4	11316
 流感	liu2'gan3	11317
 民法	min2'fa3	11318
-女郎	nv3'lang2	11319
+女郎	nü3'lang2	11319
 情调	qing2'diao4	11320
 推理	tui1'li3	11321
 等同	deng3'tong2	11322
@@ -11465,7 +11465,7 @@
 不可或缺	bu4'ke3'huo4'que1	11465
 广度	guang3'du4	11466
 经济作物	jing1'ji4'zuo4'wu4	11467
-女兵	nv3'bing1	11468
+女兵	nü3'bing1	11468
 囚	qiu2	11469
 日光	ri4'guang1	11470
 天鹅	tian1'e2	11471
@@ -12140,7 +12140,7 @@
 低级	di1'ji2	12140
 贵重	gui4'zhong4	12141
 回味	hui2'wei4	12142
-屡次	lv3'ci4	12143
+屡次	lü3'ci4	12143
 筛	shai1	12144
 说清楚	shuo1'qing1'chu3	12145
 知晓	zhi1'xiao3	12146
@@ -12213,7 +12213,7 @@
 晶莹	jing1'ying2	12213
 麻醉	ma2'zui4	12214
 幕后	mu4'hou4	12215
-女友	nv3'you3	12216
+女友	nü3'you3	12216
 情结	qing2'jie2	12217
 深渊	shen1'yuan1	12218
 些小	xie1'xiao3	12219
@@ -12268,7 +12268,7 @@
 桌面	zhuo1'mian4	12268
 跋涉	ba2'she4	12269
 倒闭	dao3'bi4	12270
-发病率	fa1'bing4'lv4	12271
+发病率	fa1'bing4'lü4	12271
 各式各样	ge4'shi4'ge4'yang4	12272
 夯实	hang1'shi2	12273
 航海	hang2'hai3	12274
@@ -12298,7 +12298,7 @@
 牵引	qian1'yin3	12298
 邵	shao4	12299
 实干	shi2'gan4	12300
-速率	su4'lv4	12301
+速率	su4'lü4	12301
 秧	yang1	12302
 一任	yi1'ren4	12303
 用兵	yong4'bing1	12304
@@ -12367,7 +12367,7 @@
 筹办	chou2'ban4	12367
 鸽	ge1	12368
 检查站	jian3'cha2'zhan4	12369
-军旅	jun1'lv3	12370
+军旅	jun1'lü3	12370
 偏离	pian1'li2	12371
 摔跤	shuai1'jiao1	12372
 万国	wan4'guo2	12373
@@ -12397,7 +12397,7 @@
 殿堂	dian4'tang2	12397
 多边贸易	duo1'bian1'mao4'yi4	12398
 可恶	ke3'wu4	12399
-女篮	nv3'lan2	12400
+女篮	nü3'lan2	12400
 洼	wa1	12401
 子时	zi3'shi2	12402
 白话	bai2'hua4	12403
@@ -12466,7 +12466,7 @@
 哗啦	hua1'la1	12466
 活生生	huo2'sheng1'sheng1	12467
 劳动法	lao2'dong4'fa3	12468
-旅途	lv3'tu2	12469
+旅途	lü3'tu2	12469
 清香	qing1'xiang1	12470
 突厥	tu1'jue2	12471
 外形	wai4'xing2	12472
@@ -12555,7 +12555,7 @@
 久远	jiu3'yuan3	12555
 开眼	kai1'yan3	12556
 年月	nian2'yue	12557
-女神	nv3'shen2	12558
+女神	nü3'shen2	12558
 欠缺	qian4'que1	12559
 取暖	qu3'nuan3	12560
 式样	shi4'yang4	12561
@@ -12605,7 +12605,7 @@
 耗资	hao4'zi1	12605
 佳作	jia1'zuo4	12606
 进货	jin4'huo4	12607
-绿叶	lv4'ye4	12608
+绿叶	lü4'ye4	12608
 采风	cai3'feng1	12609
 出人意料	chu1'ren2'yi4'liao4	12610
 两极	liang3'ji2	12611
@@ -13015,7 +13015,7 @@
 在即	zai4'ji2	13015
 竹子	zhu2'zi3	13016
 班禅	ban1'chan2	13017
-成功率	cheng2'gong1'lv4	13018
+成功率	cheng2'gong1'lü4	13018
 德才兼备	de2'cai2'jian1'bei4	13019
 地盘	di4'pan2	13020
 名胜	ming2'sheng4	13021
@@ -13046,7 +13046,7 @@
 复辟	fu4'bi4	13046
 公事	gong1'shi4	13047
 呼应	hu1'ying4	13048
-略略	lve4'lve4	13049
+略略	lüe4'lüe4	13049
 奴才	nu2'cai2	13050
 升空	sheng1'kong1	13051
 手指头	shou3'zhi3'tou2	13052
@@ -13073,7 +13073,7 @@
 真心实意	zhen1'xin1'shi2'yi4	13073
 传单	chuan2'dan1	13074
 国画	guo2'hua4	13075
-过滤	guo4'lv4	13076
+过滤	guo4'lü4	13076
 呵护	he1'hu4	13077
 精干	jing1'gan4	13078
 科技界	ke1'ji4'jie4	13079
@@ -13135,7 +13135,7 @@
 氟	fu2	13135
 官邸	guan1'di3	13136
 聚居	ju4'ju1	13137
-屡禁不止	lv3'jin4'bu4'zhi3	13138
+屡禁不止	lü3'jin4'bu4'zhi3	13138
 迁徙	qian1'xi3	13139
 潭	tan2	13140
 推崇	tui1'chong2	13141
@@ -13360,7 +13360,7 @@
 汛期	xun4'qi1	13360
 终年	zhong1'nian2	13361
 不动声色	bu4'dong4'sheng1'se4	13362
-成活率	cheng2'huo2'lv4	13363
+成活率	cheng2'huo2'lü4	13363
 调集	diao4'ji2	13364
 高瞻远瞩	gao1'zhan1'yuan3'zhu3	13365
 观音	guan1'yin1	13366
@@ -13717,7 +13717,7 @@
 浸泡	jin4'pao4	13717
 开朗	kai1'lang3	13718
 老弟	lao3'di4	13719
-毛驴	mao2'lv2	13720
+毛驴	mao2'lü2	13720
 墓葬	mu4'zang4	13721
 山寨	shan1'zhai4	13722
 堂堂	tang2'tang2	13723
@@ -13729,7 +13729,7 @@
 封建主义	feng1'jian4'zhu3'yi4	13729
 荒谬	huang1'miu4	13730
 几经	ji3'jing1	13731
-普及率	pu3'ji2'lv4	13732
+普及率	pu3'ji2'lü4	13732
 热能	re4'neng2	13733
 人行道	ren2'xing2'dao4	13734
 三更	san1'geng4	13735
@@ -13769,7 +13769,7 @@
 强壮	qiang2'zhuang4	13769
 全胜	quan2'sheng4	13770
 严酷	yan2'ku4	13771
-碧绿	bi4'lv4	13772
+碧绿	bi4'lü4	13772
 宠物	chong3'wu4	13773
 创举	chuang4'ju3	13774
 发脾气	fa1'pi2'qi	13775
@@ -13876,7 +13876,7 @@
 复原	fu4'yuan2	13876
 旱情	han4'qing2	13877
 厚望	hou4'wang4	13878
-劲旅	jing4'lv3	13879
+劲旅	jing4'lü3	13879
 料理	liao4'li3	13880
 蔑视	mie4'shi4	13881
 热身赛	re4'shen1'sai4	13882
@@ -13899,7 +13899,7 @@
 放行	fang4'xing2	13899
 家畜	jia1'chu4	13900
 邻邦	lin2'bang1	13901
-旅店	lv3'dian4	13902
+旅店	lü3'dian4	13902
 牵连	qian1'lian2	13903
 晴朗	qing2'lang3	13904
 圈儿	quan1'er2	13905
@@ -13924,7 +13924,7 @@
 全景	quan2'jing3	13924
 却说	que4'shuo1	13925
 输电	shu1'dian4	13926
-率部	lv4'bu4	13927
+率部	lü4'bu4	13927
 小节	xiao3'jie2	13928
 半殖民地	ban4'zhi2'min2'di4	13929
 参议员	can1'yi4'yuan2	13930
@@ -13969,7 +13969,7 @@
 红星	hong2'xing1	13969
 境遇	jing4'yu4	13970
 可悲	ke3'bei1	13971
-女主人	nv3'zhu3'ren	13972
+女主人	nü3'zhu3'ren	13972
 烟尘	yan1'chen2	13973
 枝条	zhi1'tiao2	13974
 重工业	zhong4'gong1'ye4	13975
@@ -14131,7 +14131,7 @@
 屹立	yi4'li4	14131
 月色	yue4'se4	14132
 桌椅	zhuo1'yi3	14133
-比率	bi3'lv4	14134
+比率	bi3'lü4	14134
 大有作为	da4'you3'zuo4'wei2	14135
 故土	gu4'tu3	14136
 赫然	he4'ran2	14137
@@ -14160,7 +14160,7 @@
 混蛋	hun2'dan4	14160
 凉水	liang2'shui3	14161
 马拉松	ma3'la1'song1	14162
-女王	nv3'wang2	14163
+女王	nü3'wang2	14163
 入关	ru4'guan1	14164
 师德	shi1'de2	14165
 羞涩	xiu1'se4	14166
@@ -14238,7 +14238,7 @@
 可不是	ke3'bu4'shi4	14238
 历史唯物主义	li4'shi3'wei2'wu4'zhu3'yi4	14239
 良机	liang2'ji1	14240
-滤	lv4	14241
+滤	lü4	14241
 埋藏	mai2'cang2	14242
 渺茫	miao3'mang2	14243
 排行榜	pai2'hang2'bang3	14244
@@ -14408,7 +14408,7 @@
 年检	nian2'jian3	14408
 蛐蛐儿	qu1'qu'er	14409
 实属	shi2'shu3	14410
-孙女	sun1'nv3	14411
+孙女	sun1'nü3	14411
 逃难	tao2'nan4	14412
 徒步	tu2'bu4	14413
 新潮	xin1'chao2	14414
@@ -14427,7 +14427,7 @@
 花白	hua1'bai2	14427
 僵硬	jiang1'ying4	14428
 理发	li3'fa4	14429
-女双	nv3'shuang1	14430
+女双	nü3'shuang1	14430
 实例	shi2'li4	14431
 先烈	xian1'lie4	14432
 心动	xin1'dong4	14433
@@ -14459,7 +14459,7 @@
 脱钩	tuo1'gou1	14459
 哑巴	ya3'ba	14460
 雨季	yu3'ji4	14461
-侄女	zhi2'nv3	14462
+侄女	zhi2'nü3	14462
 制备	zhi4'bei4	14463
 代办	dai4'ban4	14464
 单单	dan1'dan1	14465
@@ -14950,7 +14950,7 @@
 暂且	zan4'qie3	14950
 主妇	zhu3'fu4	14951
 卓	zhuo2	14952
-伴侣	ban4'lv3	14953
+伴侣	ban4'lü3	14953
 波及	bo1'ji2	14954
 唱腔	chang4'qiang1	14955
 大蒜	da4'suan4	14956
@@ -14962,7 +14962,7 @@
 泪花	lei4'hua1	14962
 门缝	men2'feng4	14963
 耐人寻味	nai4'ren2'xun2'wei4	14964
-男女老少	nan2'nv3'lao3'shao4	14965
+男女老少	nan2'nü3'lao3'shao4	14965
 奴婢	nu2'bi4	14966
 善待	shan4'dai4	14967
 生根	sheng1'gen1	14968
@@ -15058,7 +15058,7 @@
 立于	li4'yu2	15058
 寥寥	liao2'liao2	15059
 没	mo4	15060
-女仆	nv3'pu2	15061
+女仆	nü3'pu2	15061
 庞	pang2	15062
 哨兵	shao4'bing1	15063
 巳	si4	15064
@@ -15145,7 +15145,7 @@
 剧组	ju4'zu3	15145
 老话	lao3'hua4	15146
 联谊	lian2'yi4	15147
-略微	lve4'wei1	15148
+略微	lüe4'wei1	15148
 苗头	miao2'tou2	15149
 沤	ou4	15150
 飘逸	piao1'yi4	15151
@@ -15316,9 +15316,9 @@
 高强	gao1'qiang2	15316
 洪流	hong2'liu2	15317
 吉隆坡	ji2'long2'po1	15318
-捋	lv3	15319
+捋	lü3	15319
 秘诀	mi4'jue2	15320
-女将	nv3'jiang1	15321
+女将	nü3'jiang1	15321
 皮革	pi2'ge2	15322
 取名	qu3'ming2	15323
 三包	san1'bao1	15324
@@ -15561,7 +15561,7 @@
 玖	jiu3	15561
 老字号	lao3'zi4'hao	15562
 立国	li4'guo2	15563
-利润率	li4'run4'lv4	15564
+利润率	li4'run4'lü4	15564
 捏造	nie1'zao4	15565
 浓烟	nong2'yan1	15566
 弱化	ruo4'hua4	15567
@@ -15570,12 +15570,12 @@
 坍塌	tan1'ta1	15570
 天皇	tian1'huang2	15571
 无为	wu2'wei2	15572
-仙女	xian1'nv3	15573
+仙女	xian1'nü3	15573
 专页	zhuan1'ye4	15574
 字画	zi4'hua4	15575
 摆弄	bai3'nong4	15576
 比比皆是	bi3'bi3'jie1'shi4	15577
-步履	bu4'lv3	15578
+步履	bu4'lü3	15578
 大革命	da4'ge2'ming4	15579
 敌机	di2'ji1	15580
 顶尖	ding3'jian1	15581
@@ -15655,7 +15655,7 @@
 纸币	zhi3'bi4	15655
 周全	zhou1'quan2	15656
 烛光	zhu2'guang1	15657
-自然规律	zi4'ran2'gui1'lv4	15658
+自然规律	zi4'ran2'gui1'lü4	15658
 总则	zong3'ze2	15659
 混战	hun4'zhan4	15660
 激怒	ji1'nu4	15661
@@ -15738,7 +15738,7 @@
 剪彩	jian3'cai3	15738
 流利	liu2'li4	15739
 隆起	long2'qi3	15740
-旅居	lv3'ju1	15741
+旅居	lü3'ju1	15741
 恼怒	nao3'nu4	15742
 脑壳	nao3'ke2	15743
 石桥	shi2'qiao2	15744
@@ -15771,7 +15771,7 @@
 映照	ying4'zhao4	15771
 猜疑	cai1'yi2	15772
 顶级	ding3'ji2	15773
-独生子女	du2'sheng1'zi3'nv3	15774
+独生子女	du2'sheng1'zi3'nü3	15774
 厄尔尼诺	e4'er3'ni2'nuo4	15775
 放纵	fang4'zong4	15776
 共谋	gong4'mou2	15777
@@ -15954,7 +15954,7 @@
 金鱼	jin1'yu2	15954
 决算	jue2'suan4	15955
 两翼	liang3'yi4	15956
-屡见不鲜	lv3'jian4'bu4'xian1	15957
+屡见不鲜	lü3'jian4'bu4'xian1	15957
 谋杀	mou2'sha1	15958
 凄惨	qi1'can3	15959
 呛	qiang4	15960
@@ -16076,7 +16076,7 @@
 几分	ji3'fen1	16076
 落日	luo4'ri4	16077
 美金	mei3'jin1	16078
-女方	nv3'fang1	16079
+女方	nü3'fang1	16079
 气焰	qi4'yan4	16080
 人中	ren2'zhong1	16081
 三九	san1'jiu3	16082
@@ -16345,7 +16345,7 @@
 跤	jiao1	16345
 结业	jie2'ye4	16346
 馕	nang2	16347
-生产率	sheng1'chan3'lv4	16348
+生产率	sheng1'chan3'lü4	16348
 十字路口	shi2'zi4'lu4'kou3	16349
 肃清	su4'qing1	16350
 效用	xiao4'yong4	16351
@@ -16428,7 +16428,7 @@
 偏向	pian1'xiang4	16428
 认罪	ren4'zui4	16429
 塞外	sai4'wai4	16430
-侍女	shi4'nv3	16431
+侍女	shi4'nü3	16431
 衰竭	shuai1'jie2	16432
 头人	tou2'ren2	16433
 文言	wen2'yan2	16434
@@ -16754,7 +16754,7 @@
 不治	bu4'zhi4	16754
 财源	cai2'yuan2	16755
 臭气	chou4'qi4	16756
-处女	chu3'nv3	16757
+处女	chu3'nü3	16757
 加班加点	jia1'ban1'jia1'dian3	16758
 建筑群	jian4'zhu4'qun2	16759
 惊天动地	jing1'tian1'dong4'di4	16760
@@ -16770,7 +16770,7 @@
 转悠	zhuan4'you	16770
 爆满	bao4'man3	16771
 肤	fu1	16772
-旅程	lv3'cheng2	16773
+旅程	lü3'cheng2	16773
 牦牛	mao2'niu2	16774
 强健	qiang2'jian4	16775
 撒娇	sa1'jiao1	16776
@@ -16825,7 +16825,7 @@
 赔款	pei2'kuan3	16825
 皮球	pi2'qiu2	16826
 日照	ri4'zhao4	16827
-收视率	shou1'shi4'lv4	16828
+收视率	shou1'shi4'lü4	16828
 天国	tian1'guo2	16829
 相助	xiang1'zhu4	16830
 笑语	xiao4'yu3	16831
@@ -16918,7 +16918,7 @@
 常数	chang2'shu4	16918
 炊烟	chui1'yan1	16919
 店员	dian4'yuan2	16920
-分辨率	fen1'bian4'lv4	16921
+分辨率	fen1'bian4'lü4	16921
 高程	gao1'cheng2	16922
 隔膜	ge2'mo2	16923
 各抒己见	ge4'shu1'ji3'jian4	16924
@@ -17232,7 +17232,7 @@
 判决书	pan4'jue2'shu1	17232
 迁就	qian1'jiu4	17233
 切磋	qie1'cuo1	17234
-情侣	qing2'lv3	17235
+情侣	qing2'lü3	17235
 深为	shen1'wei2	17236
 渗入	shen4'ru4	17237
 树梢	shu4'shao1	17238
@@ -17263,7 +17263,7 @@
 满月	man3'yue4	17263
 民事责任	min2'shi4'ze2'ren4	17264
 命案	ming4'an4	17265
-谋略	mou2'lve4	17266
+谋略	mou2'lüe4	17266
 烹饪	peng1'ren4	17267
 取而代之	qu3'er2'dai4'zhi1	17268
 人像	ren2'xiang4	17269
@@ -17547,7 +17547,7 @@
 议定	yi4'ding4	17547
 郁郁葱葱	yu4'yu4'cong1'cong1	17548
 阅兵	yue4'bing1	17549
-韵律	yun4'lv4	17550
+韵律	yun4'lü4	17550
 总参	zong3'can1	17551
 兵法	bing1'fa3	17552
 勃然	bo2'ran2	17553
@@ -17613,7 +17613,7 @@
 窃取	qie4'qu3	17613
 穷苦	qiong2'ku3	17614
 臊	sao4	17615
-僧侣	seng1'lv3	17616
+僧侣	seng1'lü3	17616
 体魄	ti3'po4	17617
 文化界	wen2'hua4'jie4	17618
 言辞	yan2'ci2	17619
@@ -17736,14 +17736,14 @@
 包扎	bao1'za1	17736
 冰山	bing1'shan1	17737
 不得而知	bu4'de2'er2'zhi1	17738
-粗略	cu1'lve4	17739
+粗略	cu1'lüe4	17739
 担架	dan1'jia4	17740
 冬训	dong1'xun4	17741
 抚育	fu3'yu4	17742
 高傲	gao1'ao4	17743
 稿纸	gao3'zhi3	17744
 何其	he2'qi2	17745
-价值规律	jia4'zhi2'gui1'lv4	17746
+价值规律	jia4'zhi2'gui1'lü4	17746
 鞠躬尽瘁	ju1'gong1'jin4'cui4	17747
 苦于	ku3'yu2	17748
 眉眼	mei2'yan3	17749
@@ -17898,7 +17898,7 @@
 激越	ji1'yue4	17898
 街口	jie1'kou3	17899
 临时性	lin2'shi2'xing4	17900
-绿灯	lv4'deng1	17901
+绿灯	lü4'deng1	17901
 配角	pei4'jue2	17902
 图景	tu2'jing3	17903
 夏收	xia4'shou1	17904
@@ -17932,7 +17932,7 @@
 责任状	ze2'ren4'zhuang4	17932
 插秧	cha1'yang1	17933
 臭味儿	chou4'wei4'er2	17934
-翠绿	cui4'lv4	17935
+翠绿	cui4'lü4	17935
 党课	dang3'ke4	17936
 岛国	dao3'guo2	17937
 恩人	en1'ren2	17938
@@ -18031,7 +18031,7 @@
 快意	kuai4'yi4	18031
 力不从心	li4'bu4'cong2'xin1	18032
 面纱	mian4'sha1	18033
-男男女女	nan2'nan2'nv3'nv3	18034
+男男女女	nan2'nan2'nü3'nü3	18034
 喷射	pen1'she4	18035
 祈求	qi2'qiu2	18036
 绒毛	rong2'mao2	18037
@@ -18060,7 +18060,7 @@
 两用	liang3'yong4	18060
 铭心	ming2'xin1	18061
 闹市	nao4'shi4	18062
-女佣	nv3'yong1	18063
+女佣	nü3'yong1	18063
 侵吞	qin1'tun1	18064
 纱布	sha1'bu4	18065
 声名	sheng1'ming2	18066
@@ -18296,7 +18296,7 @@
 兼备	jian1'bei4	18296
 考究	kao3'jiu1	18297
 亮度	liang4'du4	18298
-履约	lv3'yue1	18299
+履约	lü3'yue1	18299
 矛	mao2	18300
 门将	men2'jiang4	18301
 期末	qi1'mo4	18302
@@ -18437,7 +18437,7 @@
 猫头鹰	mao1'tou2'ying1	18437
 慕名	mu4'ming2	18438
 嗫嚅	nie4'ru2	18439
-女朋友	nv3'peng2'you3	18440
+女朋友	nü3'peng2'you3	18440
 叛变	pan4'bian4	18441
 山石	shan1'shi2	18442
 思忖	si1'cun3	18443
@@ -18584,7 +18584,7 @@
 会员国	hui4'yuan2'guo2	18584
 泪痕	lei4'hen2	18585
 立正	li4'zheng4	18586
-绿色食品	lv4'se4'shi2'pin3	18587
+绿色食品	lü4'se4'shi2'pin3	18587
 骡马	luo2'ma3	18588
 马桶	ma3'tong3	18589
 男方	nan2'fang1	18590
@@ -18763,7 +18763,7 @@
 船夫	chuan2'fu1	18763
 得救	de2'jiu4	18764
 恶作剧	e4'zuo4'ju4	18765
-花花绿绿	hua1'hua1'lv4'lv4	18766
+花花绿绿	hua1'hua1'lü4'lü4	18766
 辉映	hui1'ying4	18767
 获救	huo4'jiu4	18768
 碱性	jian3'xing4	18769
@@ -18872,7 +18872,7 @@
 火辣辣	huo3'la4'la4	18872
 监护人	jian1'hu4'ren2	18873
 决胜	jue2'sheng4	18874
-绿化带	lv4'hua4'dai4	18875
+绿化带	lü4'hua4'dai4	18875
 蓬蓬	peng2'peng2	18876
 求证	qiu2'zheng4	18877
 煽	shan1	18878
@@ -19275,7 +19275,7 @@
 封山	feng1'shan1	19275
 交友	jiao1'you3	19276
 零距离	ling2'ju4'li2	19277
-绿卡	lv4'ka3	19278
+绿卡	lü4'ka3	19278
 泥浆	ni2'jiang1	19279
 念经	nian4'jing1	19280
 浓密	nong2'mi4	19281
@@ -19705,7 +19705,7 @@
 农机具	nong2'ji1'ju4	19705
 平缓	ping2'huan3	19706
 遣送	qian3'song4	19707
-升学率	sheng1'xue2'lv4	19708
+升学率	sheng1'xue2'lü4	19708
 石材	shi2'cai2	19709
 时势	shi2'shi4	19710
 收发	shou1'fa1	19711
@@ -19713,7 +19713,7 @@
 酸楚	suan1'chu3	19713
 通路	tong1'lu4	19714
 哇哇	wa1'wa1	19715
-无忧无虑	wu2'you1'wu2'lv4	19716
+无忧无虑	wu2'you1'wu2'lü4	19716
 梧桐	wu2'tong2	19717
 相合	xiang1'he2	19718
 血战	xue4'zhan4	19719
@@ -19877,7 +19877,7 @@
 飞行器	fei1'xing2'qi4	19877
 国别	guo2'bie2	19878
 荒滩	huang1'tan1	19879
-几率	ji1'lv4	19880
+几率	ji1'lü4	19880
 饥渴	ji1'ke3	19881
 角膜	jiao3'mo2	19882
 教士	jiao4'shi4	19883
@@ -19997,7 +19997,7 @@
 谢恩	xie4'en1	19997
 心智	xin1'zhi4	19998
 巡演	xun2'yan3	19999
-严于律己	yan2'yu2'lv4'ji3	20000
+严于律己	yan2'yu2'lü4'ji3	20000
 养子	yang3'zi3	20001
 把儿	ba3'er2	20002
 德高望重	de2'gao1'wang4'zhong4	20003
@@ -20014,7 +20014,7 @@
 据实	ju4'shi2	20014
 灵动	ling2'dong4	20015
 流放	liu2'fang4	20016
-旅游团	lv3'you2'tuan2	20017
+旅游团	lü3'you2'tuan2	20017
 哪样	na3'yang4	20018
 奴仆	nu2'pu2	20019
 喷嚏	pen1'ti4	20020
@@ -20204,7 +20204,7 @@
 窥视	kui1'shi4	20204
 门卫	men2'wei4	20205
 民谣	min2'yao2	20206
-女人	nv3'ren	20207
+女人	nü3'ren	20207
 求索	qiu2'suo3	20208
 税额	shui4'e2	20209
 随和	sui2'he	20210
@@ -20244,7 +20244,7 @@
 明目张胆	ming2'mu4'zhang1'dan3	20244
 目不转睛	mu4'bu4'zhuan3'jing1	20245
 千载难逢	qian1'zai3'nan2'feng2	20246
-深思熟虑	shen1'si1'shu2'lv4	20247
+深思熟虑	shen1'si1'shu2'lü4	20247
 神志	shen2'zhi4	20248
 适得其反	shi4'de2'qi2'fan3	20249
 舒缓	shu1'huan3	20250
@@ -20538,7 +20538,7 @@
 零配件	ling2'pei4'jian4	20538
 留存	liu2'cun2	20539
 闹着玩儿	nao4'zhe'wan2'er	20540
-女真	nv3'zhen1	20541
+女真	nü3'zhen1	20541
 评述	ping2'shu4	20542
 情思	qing2'si1	20543
 热乎乎	re4'hu1'hu1	20544
@@ -20656,7 +20656,7 @@
 狂飙	kuang2'biao1	20656
 连贯	lian2'guan4	20657
 领口	ling3'kou3	20658
-绿油油	lv4'you2'you2	20659
+绿油油	lü4'you2'you2	20659
 卵子	luan3'zi3	20660
 美术家	mei3'shu4'jia1	20661
 脑勺儿	nao3'shao2'er2	20662
@@ -20881,7 +20881,7 @@
 停当	ting2'dang	20881
 秃头	tu1'tou2	20882
 王妃	wang2'fei1	20883
-舞女	wu3'nv3	20884
+舞女	wu3'nü3	20884
 影剧	ying3'ju4	20885
 用字	yong4'zi4	20886
 中高档	zhong1'gao1'dang4	20887
@@ -21196,7 +21196,7 @@
 懒惰	lan3'duo4	21196
 老早	lao3'zao3	21197
 脸子	lian3'zi3	21198
-绿豆	lv4'dou4	21199
+绿豆	lü4'dou4	21199
 毛毯	mao2'tan3	21200
 沫	mo4	21201
 农耕	nong2'geng1	21202
@@ -21272,7 +21272,7 @@
 棉布	mian2'bu4	21272
 盘踞	pan2'ju4	21273
 齐整	qi2'zheng3	21274
-千篇一律	qian1'pian1'yi1'lv4	21275
+千篇一律	qian1'pian1'yi1'lü4	21275
 球赛	qiu2'sai4	21276
 让位	rang4'wei4	21277
 身居	shen1'ju1	21278
@@ -21335,7 +21335,7 @@
 爪牙	zhao3'ya2	21335
 专论	zhuan1'lun4	21336
 着意	zhuo2'yi4	21337
-棕榈	zong1'lv2	21338
+棕榈	zong1'lü2	21338
 阻击	zu3'ji1	21339
 做学问	zuo4'xue2'wen4	21340
 白薯	bai2'shu3	21341
@@ -21391,7 +21391,7 @@
 立竿见影	li4'gan1'jian4'ying3	21391
 猎枪	lie4'qiang1	21392
 临头	lin2'tou2	21393
-履历	lv3'li4	21394
+履历	lü3'li4	21394
 谩骂	man4'ma4	21395
 清闲	qing1'xian2	21396
 群策群力	qun2'ce4'qun2'li4	21397
@@ -21627,7 +21627,7 @@
 枯黄	ku1'huang2	21627
 录入	lu4'ru4	21628
 露珠	lu4'zhu1	21629
-铝合金	lv3'he2'jin1	21630
+铝合金	lü3'he2'jin1	21630
 轮岗	lun2'gang3	21631
 模特儿	mo2'te4'er	21632
 内分泌	nei4'fen1'mi4	21633
@@ -21718,11 +21718,11 @@
 尽责	jin4'ze2	21718
 诀窍	jue2'qiao4	21719
 军旗	jun1'qi2	21720
-氯气	lv4'qi4	21721
+氯气	lü4'qi4	21721
 咪咪	mi1'mi1	21722
 棉絮	mian2'xu4	21723
 脑血管	nao3'xue4'guan3	21724
-嫩绿	nen4'lv4	21725
+嫩绿	nen4'lü4	21725
 农庄	nong2'zhuang1	21726
 赔钱	pei2'qian2	21727
 碰硬	peng4'ying4	21728
@@ -21768,7 +21768,7 @@
 乞降	qi3'xiang2	21768
 轻便	qing1'bian4	21769
 手舞足蹈	shou3'wu3'zu2'dao3	21770
-思虑	si1'lv4	21771
+思虑	si1'lü4	21771
 贪赃枉法	tan1'zang1'wang3'fa3	21772
 唾液	tuo4'ye4	21773
 蚊虫	wen2'chong2	21774
@@ -21823,7 +21823,7 @@
 违抗	wei2'kang4	21823
 文库	wen2'ku4	21824
 笑吟吟	xiao4'yin2'yin2	21825
-新绿	xin1'lv4	21826
+新绿	xin1'lü4	21826
 休眠	xiu1'mian2	21827
 靴子	xue1'zi3	21828
 瑶族	yao2'zu2	21829
@@ -21877,7 +21877,7 @@
 席子	xi2'zi3	21877
 消退	xiao1'tui4	21878
 心气	xin1'qi4	21879
-刑律	xing2'lv4	21880
+刑律	xing2'lü4	21880
 汛	xun4	21881
 一尘不染	yi1'chen2'bu4'ran3	21882
 一五一十	yi1'wu3'yi1'shi2	21883
@@ -22396,7 +22396,7 @@
 充溢	chong1'yi4	22396
 抽身	chou1'shen1	22397
 搭载	da1'zai4	22398
-胆略	dan3'lve4	22399
+胆略	dan3'lüe4	22399
 到家	dao4'jia1	22400
 非同一般	fei1'tong2'yi1'ban1	22401
 伏案	fu2'an4	22402
@@ -22679,11 +22679,11 @@
 活塞	huo2'sai1	22679
 唧唧	ji1'ji1	22680
 兼程	jian1'cheng2	22681
-简略	jian3'lve4	22682
+简略	jian3'lüe4	22682
 娇小	jiao1'xiao3	22683
 借故	jie4'gu4	22684
 舅母	jiu4'mu3	22685
-褴褛	lan2'lv3	22686
+褴褛	lan2'lü3	22686
 联席	lian2'xi2	22687
 匿名	ni4'ming2	22688
 年节	nian2'jie2	22689
@@ -23078,7 +23078,7 @@
 孪生	luan2'sheng1	23078
 妈祖	ma1'zu3	23079
 门牌	men2'pai2	23080
-命中率	ming4'zhong4'lv4	23081
+命中率	ming4'zhong4'lü4	23081
 气韵	qi4'yun4	23082
 谦和	qian1'he2	23083
 取悦	qu3'yue4	23084
@@ -23127,7 +23127,7 @@
 上火	shang4'huo3	23127
 生气勃勃	sheng1'qi4'bo2'bo2	23128
 诗书	shi1'shu1	23129
-淑女	shu1'nv3	23130
+淑女	shu1'nü3	23130
 死去活来	si3'qu4'huo2'lai2	23131
 特聘	te4'pin4	23132
 外务	wai4'wu4	23133
@@ -23240,7 +23240,7 @@
 融通	rong2'tong1	23240
 盛典	sheng4'dian3	23241
 使用价值	shi3'yong4'jia4'zhi2	23242
-熟虑	shu2'lv4	23243
+熟虑	shu2'lü4	23243
 透气	tou4'qi4	23244
 吸水	xi1'shui3	23245
 陷阵	xian4'zhen4	23246
@@ -23331,7 +23331,7 @@
 冒犯	mao4'fan4	23331
 名不见经传	ming2'bu4'jian4'jing1'zhuan4	23332
 木耳	mu4'er3	23333
-女伴	nv3'ban4	23334
+女伴	nü3'ban4	23334
 配对	pei4'dui4	23335
 平易近人	ping2'yi4'jin4'ren2	23336
 切勿	qie4'wu4	23337
@@ -23580,7 +23580,7 @@
 方寸	fang1'cun4	23580
 服人	fu2'ren2	23581
 服输	fu2'shu1	23582
-格律	ge2'lv4	23583
+格律	ge2'lü4	23583
 湖滨	hu2'bin1	23584
 晃荡	huang4'dang	23585
 讲师团	jiang3'shi1'tuan2	23586
@@ -23704,7 +23704,7 @@
 流光	liu2'guang1	23704
 煤矸石	mei2'gan1'shi2	23705
 煤田	mei2'tian2	23706
-女装	nv3'zhuang1	23707
+女装	nü3'zhuang1	23707
 陪衬	pei2'chen4	23708
 剽窃	piao1'qie4	23709
 日臻	ri4'zhen1	23710
@@ -24134,7 +24134,7 @@
 描摹	miao2'mo2	24134
 闹腾	nao4'teng2	24135
 农时	nong2'shi2	24136
-女皇	nv3'huang2	24137
+女皇	nü3'huang2	24137
 轻飘飘	qing1'piao1'piao1	24138
 热源	re4'yuan2	24139
 身临其境	shen1'lin2'qi2'jing4	24140
@@ -24161,7 +24161,7 @@
 打包	da3'bao1	24161
 大夫	dai4'fu1	24162
 扼守	e4'shou3	24163
-妇女节	fu4'nv3'jie2	24164
+妇女节	fu4'nü3'jie2	24164
 观感	guan1'gan3	24165
 汗毛	han4'mao2	24166
 合议	he2'yi4	24167
@@ -24705,7 +24705,7 @@
 靠边	kao4'bian1	24705
 联合收割机	lian2'he2'shou1'ge1'ji1	24706
 临危不惧	lin2'wei1'bu4'ju4	24707
-旅行包	lv3'xing2'bao1	24708
+旅行包	lü3'xing2'bao1	24708
 卵石	luan3'shi2	24709
 螺丝	luo2'si1	24710
 满口	man3'kou3	24711
@@ -24774,7 +24774,7 @@
 坑坑洼洼	keng1'keng1'wa1'wa1	24774
 扣人心弦	kou4'ren2'xin1'xian2	24775
 力保	li4'bao3	24776
-绿茶	lv4'cha2	24777
+绿茶	lü4'cha2	24777
 卖命	mai4'ming4	24778
 满分	man3'fen1	24779
 秘方	mi4'fang1	24780
@@ -24939,7 +24939,7 @@
 存留	cun2'liu2	24939
 大公无私	da4'gong1'wu2'si1	24940
 大摇大摆	da4'yao2'da4'bai3	24941
-殚精竭虑	dan1'jing1'jie2'lv4	24942
+殚精竭虑	dan1'jing1'jie2'lü4	24942
 电铃	dian4'ling2	24943
 对答	dui4'da2	24944
 繁盛	fan2'sheng4	24945
@@ -24987,7 +24987,7 @@
 洗漱	xi3'shu4	24987
 眼花	yan3'hua1	24988
 洋葱	yang2'cong1	24989
-养女	yang3'nv3	24990
+养女	yang3'nü3	24990
 一斑	yi1'ban1	24991
 引申	yin3'shen1	24992
 油耗	you2'hao4	24993
@@ -25267,7 +25267,7 @@
 林网	lin2'wang3	25267
 聋子	long2'zi3	25268
 录像机	lu4'xiang4'ji1	25269
-缕缕	lv3'lv3	25270
+缕缕	lü3'lü3	25270
 美不胜收	mei3'bu4'sheng4'shou1	25271
 密闭	mi4'bi4	25272
 描画	miao2'hua4	25273
@@ -25423,7 +25423,7 @@
 两面	liang3'mian4	25423
 领主	ling3'zhu3	25424
 绿林	lu4'lin2	25425
-屡遭	lv3'zao1	25426
+屡遭	lü3'zao1	25426
 落款	luo4'kuan3	25427
 吗啡	ma3'fei1	25428
 闹市区	nao4'shi4'qu1	25429
@@ -25451,7 +25451,7 @@
 舞狮	wu3'shi1	25451
 鲜肉	xian1'rou4	25452
 相映	xiang1'ying4	25453
-小女	xiao3'nv3	25454
+小女	xiao3'nü3	25454
 性生活	xing4'sheng1'huo2	25455
 血路	xue4'lu4	25456
 姨母	yi2'mu3	25457
@@ -25570,7 +25570,7 @@
 教学	jiao1'xue2	25570
 教务	jiao4'wu4	25571
 节气	jie2'qi	25572
-劫掠	jie2'lve4	25573
+劫掠	jie2'lüe4	25573
 军乐队	jun1'yue4'dui4	25574
 开裂	kai1'lie4	25575
 快餐店	kuai4'can1'dian4	25576
@@ -25581,7 +25581,7 @@
 跑车	pao3'che1	25581
 皮衣	pi2'yi1	25582
 七手八脚	qi1'shou3'ba1'jiao3	25583
-千丝万缕	qian1'si1'wan4'lv3	25584
+千丝万缕	qian1'si1'wan4'lü3	25584
 前脚	qian2'jiao3	25585
 巧遇	qiao3'yu4	25586
 禽蛋	qin2'dan4	25587
@@ -25758,7 +25758,7 @@
 孤老	gu1'lao3	25758
 会务	hui4'wu4	25759
 火炕	huo3'kang4	25760
-家庭妇女	jia1'ting2'fu4'nv3	25761
+家庭妇女	jia1'ting2'fu4'nü3	25761
 甲壳	jia3'qiao4	25762
 解嘲	jie3'chao2	25763
 戒心	jie4'xin1	25764
@@ -26013,7 +26013,7 @@
 心室	xin1'shi4	26013
 星星点点	xing1'xing1'dian3'dian3	26014
 掩藏	yan3'cang2	26015
-叶绿素	ye4'lv4'su4	26016
+叶绿素	ye4'lü4'su4	26016
 一扫而光	yi1'sao3'er2'guang1	26017
 义士	yi4'shi4	26018
 意犹未尽	yi4'you2'wei4'jin4	26019
@@ -26148,7 +26148,7 @@
 如前所述	ru2'qian2'suo3'shu4	26148
 三夏	san1'xia4	26149
 神化	shen2'hua4	26150
-生儿育女	sheng1'er2'yu4'nv3	26151
+生儿育女	sheng1'er2'yu4'nü3	26151
 生疑	sheng1'yi2	26152
 湿淋淋	shi1'lin1'lin1	26153
 石像	shi2'xiang4	26154
@@ -26330,7 +26330,7 @@
 复述	fu4'shu4	26330
 盖帽儿	gai4'mao4'er	26331
 高难	gao1'nan2	26332
-革履	ge2'lv3	26333
+革履	ge2'lü3	26333
 革职	ge2'zhi2	26334
 果子狸	guo3'zi3'li2	26335
 婚期	hun1'qi1	26336
@@ -26343,7 +26343,7 @@
 纠察队	jiu1'cha2'dui4	26343
 军法	jun1'fa3	26344
 炼焦	lian4'jiao1	26345
-绿肥	lv4'fei2	26346
+绿肥	lü4'fei2	26346
 闷闷不乐	men4'men4'bu4'le4	26347
 暮春	mu4'chun1	26348
 杀伤力	sha1'shang1'li4	26349
@@ -26468,7 +26468,7 @@
 眯缝	mi1'feng	26468
 内裤	nei4'ku4	26469
 农工商	nong2'gong1'shang1	26470
-女娲	nv3'wa1	26471
+女娲	nü3'wa1	26471
 贫贱	pin2'jian4	26472
 平均数	ping2'jun1'shu4	26473
 麒麟	qi2'lin2	26474
@@ -26661,7 +26661,7 @@
 病史	bing4'shi3	26661
 病势	bing4'shi4	26662
 草甸	cao3'dian4	26663
-出生率	chu1'sheng1'lv4	26664
+出生率	chu1'sheng1'lü4	26664
 打字机	da3'zi4'ji1	26665
 大雅	da4'ya3	26666
 敌国	di2'guo2	26667
@@ -26826,7 +26826,7 @@
 忙乎	mang2'hu1	26826
 纳西族	na4'xi1'zu2	26827
 溺死	ni4'si3	26828
-女婴	nv3'ying1	26829
+女婴	nü3'ying1	26829
 盘桓	pan2'huan2	26830
 判罚	pan4'fa2	26831
 庞杂	pang2'za2	26832
@@ -26975,7 +26975,7 @@
 流毒	liu2'du2	26975
 龙灯	long2'deng1	26976
 聋哑	long2'ya3	26977
-律动	lv4'dong4	26978
+律动	lü4'dong4	26978
 落叶松	luo4'ye4'song1	26979
 门楣	men2'mei2	26980
 门生	men2'sheng1	26981
@@ -27074,7 +27074,7 @@
 囤积	tun2'ji1	27074
 万恶	wan4'e4	27075
 午宴	wu3'yan4	27076
-西装革履	xi1'zhuang1'ge2'lv3	27077
+西装革履	xi1'zhuang1'ge2'lü3	27077
 下不来	xia4'bu'lai2	27078
 下饭	xia4'fan4	27079
 小辫子	xiao3'bian4'zi3	27080
@@ -27111,7 +27111,7 @@
 好人好事	hao3'ren2'hao3'shi4	27111
 号牌	hao4'pai2	27112
 黑道	hei1'dao4	27113
-红绿灯	hong2'lv4'deng1	27114
+红绿灯	hong2'lü4'deng1	27114
 哄骗	hong3'pian4	27115
 寂然	ji4'ran2	27116
 家法	jia1'fa3	27117
@@ -27191,7 +27191,7 @@
 宠儿	chong3'er2	27191
 出逃	chu1'tao2	27192
 除草剂	chu2'cao3'ji4	27193
-灯红酒绿	deng1'hong2'jiu3'lv4	27194
+灯红酒绿	deng1'hong2'jiu3'lü4	27194
 东三省	dong1'san1'sheng3	27195
 毒剂	du2'ji4	27196
 发狠	fa1'hen3	27197
@@ -27294,7 +27294,7 @@
 老手	lao3'shou3	27294
 鲁莽	lu3'mang3	27295
 明前	ming2'qian2	27296
-墨绿	mo4'lv4	27297
+墨绿	mo4'lü4	27297
 暮年	mu4'nian2	27298
 皮靴	pi2'xue1	27299
 绮丽	qi3'li4	27300
@@ -27391,7 +27391,7 @@
 摩肩接踵	mo2'jian1'jie1'zhong3	27391
 脑际	nao3'ji4	27392
 怒容	nu4'rong2	27393
-女色	nv3'se4	27394
+女色	nü3'se4	27394
 棋艺	qi2'yi4	27395
 抢运	qiang3'yun4	27396
 侨领	qiao2'ling3	27397
@@ -27469,7 +27469,7 @@
 美色	mei3'se4	27469
 摩拳擦掌	mo2'quan2'ca1'zhang3	27470
 墓穴	mu4'xue2	27471
-女权	nv3'quan2	27472
+女权	nü3'quan2	27472
 怦然	peng1'ran2	27473
 蓬头垢面	peng2'tou2'gou4'mian4	27474
 脾胃	pi2'wei4	27475
@@ -27534,7 +27534,7 @@
 华语	hua2'yu3	27534
 会刊	hui4'kan1	27535
 晦涩	hui4'se4	27536
-纪律性	ji4'lv4'xing4	27537
+纪律性	ji4'lü4'xing4	27537
 金盾	jin1'dun4	27538
 坎肩	kan3'jian1	27539
 留情	liu2'qing2	27540
@@ -27547,7 +27547,7 @@
 明丽	ming2'li4	27547
 拟于	ni3'yu2	27548
 农副业	nong2'fu4'ye4	27549
-女声	nv3'sheng1	27550
+女声	nü3'sheng1	27550
 骗术	pian4'shu4	27551
 铺盖卷儿	pu1'gai'juan3'er	27552
 起火	qi3'huo3	27553
@@ -27678,7 +27678,7 @@
 彩带	cai3'dai4	27678
 车皮	che1'pi2	27679
 冲浪	chong1'lang4	27680
-葱绿	cong1'lv4	27681
+葱绿	cong1'lü4	27681
 淙淙	cong2'cong2	27682
 粗话	cu1'hua4	27683
 存储器	cun2'chu3'qi4	27684
@@ -27804,7 +27804,7 @@
 探路	tan4'lu4	27804
 淘米	tao2'mi3	27805
 屯垦	tun2'ken3	27806
-外孙女	wai4'sun1'nv3	27807
+外孙女	wai4'sun1'nü3	27807
 洗涤剂	xi3'di2'ji4	27808
 晓之以理	xiao3'zhi1'yi3'li3	27809
 肖像画	xiao4'xiang4'hua4	27810
@@ -27874,7 +27874,7 @@
 冗员	rong3'yuan2	27874
 山珍海味	shan1'zhen1'hai3'wei4	27875
 上苍	shang4'cang1	27876
-上座率	shang4'zuo4'lv4	27877
+上座率	shang4'zuo4'lü4	27877
 声部	sheng1'bu4	27878
 圣明	sheng4'ming2	27879
 水球	shui3'qiu2	27880
@@ -27914,7 +27914,7 @@
 趁热	chen4're4	27914
 称谢	cheng1'xie4	27915
 成瘾	cheng2'yin3	27916
-处女作	chu3'nv3'zuo4	27917
+处女作	chu3'nü3'zuo4	27917
 错处	cuo4'chu	27918
 打枪	da3'qiang1	27919
 单兵	dan1'bing1	27920
@@ -27949,7 +27949,7 @@
 牧童	mu4'tong2	27949
 那阵子	na4'zhen4'zi3	27950
 念及	nian4'ji2	27951
-女人家	nv3'ren'jia1	27952
+女人家	nü3'ren'jia1	27952
 平起平坐	ping2'qi3'ping2'zuo4	27953
 千山万水	qian1'shan1'wan4'shui3	27954
 窃窃私语	qie4'qie4'si1'yu3	27955
@@ -28318,7 +28318,7 @@
 熄火	xi1'huo3	28318
 贤良	xian2'liang2	28319
 斜面	xie2'mian4	28320
-心律	xin1'lv4	28321
+心律	xin1'lü4	28321
 新颜	xin1'yan2	28322
 巡航导弹	xun2'hang2'dao3'dan4	28323
 摇头丸	yao2'tou2'wan2	28324
@@ -28474,7 +28474,7 @@
 礼帽	li3'mao4	28474
 凉棚	liang2'peng2	28475
 溜冰	liu1'bing1	28476
-旅人	lv3'ren2	28477
+旅人	lü3'ren2	28477
 牛栏	niu2'lan2	28478
 陪葬	pei2'zang4	28479
 批阅	pi1'yue4	28480
@@ -28736,7 +28736,7 @@
 老少边穷	lao3'shao4'bian1'qiong2	28736
 了当	liao3'dang4	28737
 镣	liao4	28738
-掳掠	lu3'lve4	28739
+掳掠	lu3'lüe4	28739
 马尾松	ma3'wei3'song1	28740
 盲点	mang2'dian3	28741
 男足	nan2'zu2	28742
@@ -28753,7 +28753,7 @@
 恰逢	qia4'feng2	28753
 枪战	qiang1'zhan4	28754
 钦差	qin1'chai1	28755
-青绿	qing1'lv4	28756
+青绿	qing1'lü4	28756
 球面	qiu2'mian4	28757
 柔韧	rou2'ren4	28758
 山墙	shan1'qiang2	28759
@@ -28864,7 +28864,7 @@
 社会存在	she4'hui4'cun2'zai4	28864
 神医	shen2'yi1	28865
 胜景	sheng4'jing3	28866
-仕女	shi4'nv3	28867
+仕女	shi4'nü3	28867
 寿星	shou4'xing1	28868
 双全	shuang1'quan2	28869
 死水	si3'shui3	28870
@@ -28991,13 +28991,13 @@
 禀赋	bing3'fu4	28991
 不甘示弱	bu4'gan1'shi4'ruo4	28992
 不足道	bu4'zu2'dao4	28993
-才女	cai2'nv3	28994
+才女	cai2'nü3	28994
 踩踏	cai3'ta4	28995
 扯淡	che3'dan4	28996
 乘务	cheng2'wu4	28997
 出格	chu1'ge2	28998
 除开	chu2'kai1	28999
-处心积虑	chu3'xin1'ji1'lv4	29000
+处心积虑	chu3'xin1'ji1'lü4	29000
 窗纱	chuang1'sha1	29001
 大满贯	da4'man3'guan4	29002
 戴帽子	dai4'mao4'zi3	29003
@@ -29197,7 +29197,7 @@
 风干	feng1'gan1	29197
 烽烟	feng1'yan1	29198
 赴任	fu4'ren4	29199
-干女儿	gan1'nv3'er2	29200
+干女儿	gan1'nü3'er2	29200
 高分	gao1'fen1	29201
 高攀	gao1'pan1	29202
 骨牌	gu3'pai2	29203
@@ -29242,7 +29242,7 @@
 球市	qiu2'shi4	29242
 去职	qu4'zhi2	29243
 拳打脚踢	quan2'da3'jiao3'ti1	29244
-如履薄冰	ru2'lv3'bo2'bing1	29245
+如履薄冰	ru2'lü3'bo2'bing1	29245
 如其	ru2'qi2	29246
 善人	shan4'ren2	29247
 时过境迁	shi2'guo4'jing4'qian1	29248
@@ -29709,7 +29709,7 @@
 自我牺牲	zi4'wo3'xi1'sheng1	29709
 遵行	zun1'xing2	29710
 乓	pang1	29711
-爱女	ai4'nv3	29712
+爱女	ai4'nü3	29712
 熬煎	ao2'jian1	29713
 变幻莫测	bian4'huan4'mo4'ce4	29714
 播送	bo1'song4	29715
@@ -29800,7 +29800,7 @@
 小心眼儿	xiao3'xin1'yan3'er	29800
 校际	xiao4'ji4	29801
 笑逐颜开	xiao4'zhu2'yan2'kai1	29802
-心率	xin1'lv4	29803
+心率	xin1'lü4	29803
 绣球	xiu4'qiu2	29804
 虚惊	xu1'jing1	29805
 移入	yi2'ru4	29806
@@ -29808,7 +29808,7 @@
 油饼	you2'bing3	29808
 愚民	yu2'min2	29809
 扎营	zha1'ying2	29810
-长女	chang2'nv3	29811
+长女	chang2'nü3	29811
 折扇	zhe2'shan4	29812
 主轴	zhu3'zhou2	29813
 专使	zhuan1'shi3	29814
@@ -29891,7 +29891,7 @@
 投弹	tou2'dan4	29891
 屯田	tun2'tian2	29892
 拖泥带水	tuo1'ni2'dai4'shui3	29893
-外甥女	wai4'sheng'nv3	29894
+外甥女	wai4'sheng'nü3	29894
 往还	wang3'huan2	29895
 威势	wei1'shi4	29896
 无瑕	wu2'xia2	29897
@@ -29926,7 +29926,7 @@
 自封	zi4'feng1	29926
 板结	ban3'jie2	29927
 本源	ben3'yuan2	29928
-婢女	bi4'nv3	29929
+婢女	bi4'nü3	29929
 壁炉	bi4'lu2	29930
 臂弯	bi4'wan1	29931
 长驱直入	chang2'qu1'zhi2'ru4	29932
@@ -29950,7 +29950,7 @@
 关机	guan1'ji1	29950
 含羞	han2'xiu1	29951
 合宜	he2'yi2	29952
-红红绿绿	hong2'hong2'lv4'lv4	29953
+红红绿绿	hong2'hong2'lü4'lü4	29953
 呼号	hu1'hao4	29954
 化脓	hua4'nong2	29955
 火力发电	huo3'li4'fa1'dian4	29956
@@ -29982,7 +29982,7 @@
 色相	se4'xiang4	29982
 上脸	shang4'lian3	29983
 尚方宝剑	shang4'fang1'bao3'jian4	29984
-神女	shen2'nv3	29985
+神女	shen2'nü3	29985
 事倍功半	shi4'bei4'gong1'ban4	29986
 守节	shou3'jie2	29987
 兽性	shou4'xing4	29988
@@ -30061,10 +30061,10 @@
 继承权	ji4'cheng2'quan2	30061
 僵死	jiang1'si3	30062
 角门	jiao3'men2	30063
-节律	jie2'lv4	30064
+节律	jie2'lü4	30064
 晶莹剔透	jing1'ying2'ti1'tou4	30065
 军乐	jun1'yue4	30066
-开绿灯	kai1'lv4'deng1	30067
+开绿灯	kai1'lü4'deng1	30067
 凯旋门	kai3'xuan2'men2	30068
 坑人	keng1'ren2	30069
 狂暴	kuang2'bao4	30070
@@ -30079,7 +30079,7 @@
 木鱼	mu4'yu2	30079
 凝眸	ning2'mou2	30080
 牛鼻子	niu2'bi2'zi3	30081
-女招待	nv3'zhao1'dai4	30082
+女招待	nü3'zhao1'dai4	30082
 炮轰	pao4'hong1	30083
 凄清	qi1'qing1	30084
 切面	qie1'mian4	30085
@@ -30190,7 +30190,7 @@
 乱蓬蓬	luan4'peng2'peng2	30190
 骂娘	ma4'niang2	30191
 没门儿	mei2'men2'er	30192
-男女关系	nan2'nv3'guan1'xi4	30193
+男女关系	nan2'nü3'guan1'xi4	30193
 平复	ping2'fu4	30194
 欺行霸市	qi1'hang2'ba4'shi4	30195
 抢白	qiang3'bai2	30196
@@ -30344,7 +30344,7 @@
 应召	ying4'zhao4	30344
 忧思	you1'si1	30345
 悠然自得	you1'ran2'zi4'de2	30346
-幼女	you4'nv3	30347
+幼女	you4'nü3	30347
 在所不惜	zai4'suo3'bu4'xi1	30348
 赠品	zeng4'pin3	30349
 展露	zhan3'lu4	30350
@@ -30578,8 +30578,8 @@
 卑贱	bei1'jian4	30578
 宾语	bin1'yu3	30579
 茶会	cha2'hui4	30580
-差旅费	chai1'lv3'fei4	30581
-常绿	chang2'lv4	30582
+差旅费	chai1'lü3'fei4	30581
+常绿	chang2'lü4	30582
 超量	chao1'liang4	30583
 聪颖	cong1'ying3	30584
 粗粮	cu1'liang2	30585
@@ -30690,7 +30690,7 @@
 毒辣	du2'la4	30690
 煅	duan4	30691
 对过	dui4'guo4	30692
-多虑	duo1'lv4	30693
+多虑	duo1'lü4	30693
 反锁	fan3'suo3	30694
 放疗	fang4'liao2	30695
 肥美	fei2'mei3	30696
@@ -30841,7 +30841,7 @@
 木头人	mu4'tou2'ren2	30841
 内廷	nei4'ting2	30842
 拟议	ni3'yi4	30843
-女角	nv3'jiao3	30844
+女角	nü3'jiao3	30844
 翩然	pian1'ran2	30845
 铺陈	pu1'chen2	30846
 杞人忧天	qi3'ren2'you1'tian1	30847
@@ -30965,7 +30965,7 @@
 惹不起	re3'bu4'qi3	30965
 三教九流	san1'jiao4'jiu3'liu2	30966
 山火	shan1'huo3	30967
-深谋远虑	shen1'mou2'yuan3'lv4	30968
+深谋远虑	shen1'mou2'yuan3'lü4	30968
 尸骸	shi1'hai2	30969
 势不两立	shi4'bu4'liang3'li4	30970
 四边	si4'bian1	30971
@@ -30987,7 +30987,7 @@
 锈迹	xiu4'ji4	30987
 续集	xu4'ji2	30988
 蓄谋	xu4'mou2	30989
-严以律己	yan2'yi3'lv4'ji3	30990
+严以律己	yan2'yi3'lü4'ji3	30990
 腰酸	yao1'suan1	30991
 夜宿	ye4'su4	30992
 旖旎	yi3'ni3	30993
@@ -31010,7 +31010,7 @@
 病状	bing4'zhuang4	31010
 不出所料	bu4'chu1'suo3'liao4	31011
 不爽	bu4'shuang3	31012
-步履维艰	bu4'lv3'wei2'jian1	31013
+步履维艰	bu4'lü3'wei2'jian1	31013
 沧海桑田	cang1'hai3'sang1'tian2	31014
 草鱼	cao3'yu2	31015
 侧影	ce4'ying3	31016
@@ -31059,7 +31059,7 @@
 来由	lai2'you2	31059
 利他	li4'ta1	31060
 路数	lu4'shu4	31061
-掠影	lve4'ying3	31062
+掠影	lüe4'ying3	31062
 落花流水	luo4'hua1'liu2'shui3	31063
 梦游	meng4'you2	31064
 膜拜	mo2'bai4	31065
@@ -31070,8 +31070,8 @@
 你追我赶	ni3'zhui1'wo3'gan3	31070
 逆反	ni4'fan3	31071
 扭捏	niu3'nie1	31072
-女宾	nv3'bin1	31073
-女流	nv3'liu2	31074
+女宾	nü3'bin1	31073
+女流	nü3'liu2	31074
 漂白	piao3'bai2	31075
 品名	pin3'ming2	31076
 轻音乐	qing1'yin1'yue4	31077
@@ -31187,7 +31187,7 @@
 脑血栓	nao3'xue4'shuan1	31187
 霓虹	ni2'hong2	31188
 碾盘	nian3'pan2	31189
-浓绿	nong2'lv4	31190
+浓绿	nong2'lü4	31190
 扒手	pa2'shou3	31191
 泡桐	pao1'tong2	31192
 皮层	pi2'ceng2	31193
@@ -31287,14 +31287,14 @@
 孤立无援	gu1'li4'wu2'yuan2	31287
 观光农业	guan1'guang1'nong2'ye4	31288
 光焰	guang1'yan4	31289
-过虑	guo4'lv4	31290
+过虑	guo4'lü4	31290
 海难	hai3'nan4	31291
 航速	hang2'su4	31292
 护路	hu4'lu4	31293
 欢歌笑语	huan1'ge1'xiao4'yu3	31294
 缓急	huan3'ji2	31295
 教具	jiao4'ju4	31296
-戒律	jie4'lv4	31297
+戒律	jie4'lü4	31297
 进价	jin4'jia4	31298
 惊世骇俗	jing1'shi4'hai4'su2	31299
 精练	jing1'lian4	31300
@@ -31305,7 +31305,7 @@
 理亏	li3'kui1	31305
 猎捕	lie4'bu3	31306
 露一手	lou4'yi1'shou3	31307
-绿茵场	lv4'yin1'chang3	31308
+绿茵场	lü4'yin1'chang3	31308
 乱来	luan4'lai2	31309
 麻油	ma2'you2	31310
 脉动	mai4'dong4	31311
@@ -31419,7 +31419,7 @@
 立春	li4'chun1	31419
 满山遍野	man3'shan1'bian4'ye3	31420
 秘史	mi4'shi3	31421
-女式	nv3'shi4	31422
+女式	nü3'shi4	31422
 蟠龙	pan2'long2	31423
 滂沱	pang1'tuo2	31424
 抛掷	pao1'zhi4	31425
@@ -31652,13 +31652,13 @@
 闹哄哄	nao4'hong1'hong1	31652
 年谱	nian2'pu3	31653
 怒斥	nu4'chi4	31654
-女眷	nv3'juan4	31655
+女眷	nü3'juan4	31655
 暖洋洋	nuan3'yang2'yang2	31656
 拍戏	pai1'xi4	31657
 赔笑	pei2'xiao4	31658
 披荆斩棘	pi1'jing1'zhan3'ji2	31659
 泼洒	po1'sa3	31660
-七律	qi1'lv4	31661
+七律	qi1'lü4	31661
 弃置	qi4'zhi4	31662
 亲族	qin1'zu2	31663
 情致	qing2'zhi4	31664
@@ -31767,7 +31767,7 @@
 内宅	nei4'zhai2	31767
 牛皮纸	niu2'pi2'zhi3	31768
 农膜	nong2'mo2	31769
-女强人	nv3'qiang2'ren2	31770
+女强人	nü3'qiang2'ren2	31770
 磐石	pan2'shi2	31771
 披红	pi1'hong2	31772
 清雅	qing1'ya3	31773
@@ -32015,14 +32015,14 @@
 蓝宝石	lan2'bao3'shi2	32015
 猎奇	lie4'qi2	32016
 临刑	lin2'xing2	32017
-旅游鞋	lv3'you2'xie2	32018
+旅游鞋	lü3'you2'xie2	32018
 逻辑性	luo2'ji2'xing4	32019
 谋士	mou2'shi4	32020
 木讷	mu4'ne4	32021
 脑门儿	nao3'men2'er	32022
 凝练	ning2'lian4	32023
 妞妞	niu1'niu1	32024
-女相	nv3'xiang1	32025
+女相	nü3'xiang1	32025
 暖瓶	nuan3'ping2	32026
 棚户区	peng2'hu4'qu1	32027
 平手	ping2'shou3	32028
@@ -32145,14 +32145,14 @@
 僚属	liao2'shu3	32145
 凌迟	ling2'chi2	32146
 碌碌	lu4'lu4	32147
-旅费	lv3'fei4	32148
+旅费	lü3'fei4	32148
 轮班	lun2'ban1	32149
 民愤	min2'fen4	32150
 鸣不平	ming2'bu4'ping2	32151
 魔爪	mo2'zhao3	32152
 耐旱	nai4'han4	32153
 鸟雀	niao3'que4	32154
-女校	nv3'xiao4	32155
+女校	nü3'xiao4	32155
 叛党	pan4'dang3	32156
 刨根问底	pao2'gen1'wen4'di3	32157
 佩刀	pei4'dao1	32158
@@ -32337,7 +32337,7 @@
 涨水	zhang3'shui3	32337
 遮阳	zhe1'yang2	32338
 织锦	zhi1'jin3	32339
-织女	zhi1'nv3	32340
+织女	zhi1'nü3	32340
 至理	zhi4'li3	32341
 种属	zhong3'shu3	32342
 朱漆	zhu1'qi1	32343
@@ -32363,7 +32363,7 @@
 打紧	da3'jin3	32363
 大后方	da4'hou4'fang1	32364
 胆小鬼	dan3'xiao3'gui3	32365
-独生女	du2'sheng1'nv3	32366
+独生女	du2'sheng1'nü3	32366
 对攻	dui4'gong1	32367
 对局	dui4'ju2	32368
 放浪	fang4'lang4	32369
@@ -32448,7 +32448,7 @@
 训示	xun4'shi4	32448
 要旨	yao4'zhi3	32449
 一日千里	yi1'ri4'qian1'li3	32450
-音律	yin1'lv4	32451
+音律	yin1'lü4	32451
 应考	ying4'kao3	32452
 油彩	you2'cai3	32453
 油箱	you2'xiang1	32454
@@ -32544,7 +32544,7 @@
 纳谏	na4'jian4	32544
 恼人	nao3'ren2	32545
 凝集	ning2'ji2	32546
-女巫	nv3'wu1	32547
+女巫	nü3'wu1	32547
 哦	o2	32548
 叛国	pan4'guo2	32549
 弃婴	qi4'ying1	32550
@@ -32811,7 +32811,7 @@
 说梦话	shuo1'meng4'hua4	32811
 司乘人员	si1'cheng2'ren2'yuan2	32812
 素菜	su4'cai4	32813
-韬略	tao1'lve4	32814
+韬略	tao1'lüe4	32814
 天旋地转	tian1'xuan2'di4'zhuan3	32815
 天主	tian1'zhu3	32816
 团圆饭	tuan2'yuan2'fan4	32817
@@ -32883,7 +32883,7 @@
 粉剂	fen3'ji4	32883
 感慨万端	gan3'kai3'wan4'duan1	32884
 高端	gao1'duan1	32885
-歌女	ge1'nv3	32886
+歌女	ge1'nü3	32886
 海葵	hai3'kui2	32887
 横行霸道	heng2'xing2'ba4'dao4	32888
 花芽	hua1'ya2	32889
@@ -33234,7 +33234,7 @@
 超自然	chao1'zi4'ran2	33234
 成竹在胸	cheng2'zhu2'zai4'xiong1	33235
 除恶务尽	chu2'e4'wu4'jin4	33236
-处女地	chu3'nv3'di4	33237
+处女地	chu3'nü3'di4	33237
 闯祸	chuang3'huo4	33238
 吹风会	chui1'feng1'hui4	33239
 篡夺	cuan4'duo2	33240
@@ -33410,7 +33410,7 @@
 老账	lao3'zhang4	33410
 老资格	lao3'zi1'ge2	33411
 裂口	lie4'kou3	33412
-旅行袋	lv3'xing2'dai4	33413
+旅行袋	lü3'xing2'dai4	33413
 摩挲	mo2'sa	33414
 煤尘	mei2'chen2	33415
 闷头儿	men1'tou2'er	33416
@@ -33504,7 +33504,7 @@
 对歌	dui4'ge1	33504
 恩宠	en1'chong3	33505
 法事	fa3'shi4	33506
-浮光掠影	fu2'guang1'lve4'ying3	33507
+浮光掠影	fu2'guang1'lüe4'ying3	33507
 父业	fu4'ye4	33508
 复职	fu4'zhi2	33509
 副产品	fu4'chan3'pin3	33510
@@ -33557,7 +33557,7 @@
 如梦初醒	ru2'meng4'chu1'xing3	33557
 卅	sa4	33558
 商户	shang1'hu4	33559
-商旅	shang1'lv3	33560
+商旅	shang1'lü3	33560
 稍候	shao1'hou4	33561
 身家性命	shen1'jia1'xing4'ming4	33562
 时务	shi2'wu4	33563
@@ -33742,7 +33742,7 @@
 到顶	dao4'ding3	33742
 动脉硬化	dong4'mai4'ying4'hua4	33743
 断章取义	duan4'zhang1'qu3'yi4	33744
-儿女情长	er2'nv3'qing2'chang2	33745
+儿女情长	er2'nü3'qing2'chang2	33745
 发奖	fa1'jiang3	33746
 发令	fa1'ling4	33747
 筏子	fa2'zi3	33748
@@ -33931,7 +33931,7 @@
 令尊	ling4'zun1	33931
 流泻	liu2'xie4	33932
 芦笙	lu2'sheng1	33933
-铝箔	lv3'bo2	33934
+铝箔	lü3'bo2	33934
 面面俱到	mian4'mian4'ju4'dao4	33935
 民怨	min2'yuan4	33936
 末路	mo4'lu4	33937
@@ -34288,7 +34288,7 @@
 打太极拳	da3'tai4'ji2'quan2	34288
 大事化小	da4'shi4'hua4'xiao3	34289
 大限	da4'xian4	34290
-淡绿	dan4'lv4	34291
+淡绿	dan4'lü4	34291
 道贺	dao4'he4	34292
 迪厅	di2'ting1	34293
 定产	ding4'chan3	34294
@@ -34307,7 +34307,7 @@
 共勉	gong4'mian3	34307
 苟延残喘	gou3'yan2'can2'chuan3	34308
 够朋友	gou4'peng2'you3	34309
-顾虑重重	gu4'lv4'chong2'chong2	34310
+顾虑重重	gu4'lü4'chong2'chong2	34310
 聒噪	guo1'zao4	34311
 国本	guo2'ben3	34312
 国戚	guo2'qi1	34313
@@ -34338,7 +34338,7 @@
 立言	li4'yan2	34338
 两面派	liang3'mian4'pai4	34339
 烈马	lie4'ma3	34340
-烈女	lie4'nv3	34341
+烈女	lie4'nü3	34341
 猎犬	lie4'quan3	34342
 林产	lin2'chan3	34343
 临阵	lin2'zhen4	34344
@@ -34374,7 +34374,7 @@
 失修	shi1'xiu1	34374
 十字街头	shi2'zi4'jie1'tou2	34375
 拾级而上	she4'ji2'er2'shang4	34376
-史略	shi3'lve4	34377
+史略	shi3'lüe4	34377
 世系	shi4'xi4	34378
 守时	shou3'shi2	34379
 书号	shu1'hao4	34380
@@ -34531,7 +34531,7 @@
 水杉	shui3'shan1	34531
 算话	suan4'hua4	34532
 天庭	tian1'ting2	34533
-贴现率	tie1'xian4'lv4	34534
+贴现率	tie1'xian4'lü4	34534
 吐丝	tu3'si1	34535
 晚节	wan3'jie2	34536
 窝火	wo1'huo3	34537
@@ -34583,7 +34583,7 @@
 搏动	bo2'dong4	34583
 不管三七二十一	bu4'guan3'san1'qi1'er4'shi2'yi1	34584
 残部	can2'bu4	34585
-草绿	cao3'lv4	34586
+草绿	cao3'lü4	34586
 唱本	chang4'ben3	34587
 撤兵	che4'bing1	34588
 逞能	cheng3'neng2	34589
@@ -34659,8 +34659,8 @@
 痨病	lao2'bing4	34659
 连篇累牍	lian2'pian1'lei3'du2	34660
 鹭鸶	lu4'si1	34661
-律诗	lv4'shi1	34662
-绿茵茵	lv4'yin1'yin1	34663
+律诗	lü4'shi1	34662
+绿茵茵	lü4'yin1'yin1	34663
 乱纷纷	luan4'fen1'fen1	34664
 门人	men2'ren2	34665
 蒙冤	meng2'yuan1	34666
@@ -34668,7 +34668,7 @@
 墨黑	mo4'hei1	34668
 尼姑庵	ni2'gu1'an1	34669
 逆料	ni4'liao4	34670
-牛郎织女	niu2'lang2'zhi1'nv3	34671
+牛郎织女	niu2'lang2'zhi1'nü3	34671
 谱系	pu3'xi4	34672
 企求	qi3'qiu2	34673
 气垫	qi4'dian4	34674
@@ -34812,8 +34812,8 @@
 链球	lian4'qiu2	34812
 列岛	lie4'dao3	34813
 领养	ling3'yang3	34814
-吕剧	lv3'ju4	34815
-屡教不改	lv3'jiao4'bu4'gai3	34816
+吕剧	lü3'ju4	34815
+屡教不改	lü3'jiao4'bu4'gai3	34816
 乱套	luan4'tao4	34817
 乱真	luan4'zhen1	34818
 瞒天过海	man2'tian1'guo4'hai3	34819
@@ -35108,7 +35108,7 @@
 塔吊	ta3'diao4	35108
 探亲访友	tan4'qin1'fang3'you3	35109
 体改	ti3'gai3	35110
-天女散花	tian1'nv3'san4'hua1	35111
+天女散花	tian1'nü3'san4'hua1	35111
 天之骄子	tian1'zhi1'jiao1'zi3	35112
 条桌	tiao2'zhuo1	35113
 头饰	tou2'shi4	35114
@@ -35133,14 +35133,14 @@
 信息论	xin4'xi1'lun4	35133
 星宿	xing1'xiu4	35134
 行政拘留	xing2'zheng4'ju1'liu2	35135
-修女	xiu1'nv3	35136
+修女	xiu1'nü3	35136
 絮棉	xu4'mian2	35137
 选择题	xuan3'ze2'ti2	35138
 哑铃	ya3'ling2	35139
 言归正传	yan2'gui1'zheng4'zhuan4	35140
 一丁点儿	yi1'ding1'dian3'er	35141
 一举成名	yi1'ju3'cheng2'ming2	35142
-义女	yi4'nv3	35143
+义女	yi4'nü3	35143
 异心	yi4'xin1	35144
 姻亲	yin1'qin1	35145
 隐姓埋名	yin3'xing4'mai2'ming2	35146
@@ -35253,7 +35253,7 @@
 内耗	nei4'hao4	35253
 内敛	nei4'lian3	35254
 呢绒	ni2'rong2	35255
-女红	nv3'gong1	35256
+女红	nü3'gong1	35256
 排印	pai2'yin4	35257
 票箱	piao4'xiang1	35258
 七窍	qi1'qiao4	35259
@@ -35269,7 +35269,7 @@
 上下文	shang4'xia4'wen2	35269
 上座	shang4'zuo4	35270
 肾炎	shen4'yan2	35271
-胜率	sheng4'lv4	35272
+胜率	sheng4'lü4	35272
 诗画	shi1'hua4	35273
 守灵	shou3'ling2	35274
 树碑立传	shu4'bei1'li4'zhuan4	35275
@@ -35382,7 +35382,7 @@
 连阴天	lian2'yin1'tian1	35382
 玲珑剔透	ling2'long2'ti1'tou4	35383
 留洋	liu2'yang2	35384
-绿野	lv4'ye3	35385
+绿野	lü4'ye3	35385
 螺纹	luo2'wen2	35386
 麻辣	ma2'la4	35387
 马扎	ma3'zha2	35388
@@ -35521,7 +35521,7 @@
 假日经济	jia4'ri4'jing1'ji4	35521
 鉴赏力	jian4'shang3'li4	35522
 交学费	jiao1'xue2'fei4	35523
-叫驴	jiao4'lv2	35524
+叫驴	jiao4'lü2	35524
 惊弓之鸟	jing1'gong1'zhi1'niao3	35525
 竞渡	jing4'du4	35526
 军火库	jun1'huo3'ku4	35527
@@ -35535,7 +35535,7 @@
 来料	lai2'liao4	35535
 擂主	lei4'zhu3	35536
 淋病	lin4'bing4	35537
-屡禁不绝	lv3'jin4'bu4'jue2	35538
+屡禁不绝	lü3'jin4'bu4'jue2	35538
 美食家	mei3'shi2'jia1	35539
 末世	mo4'shi4	35540
 男声	nan2'sheng1	35541
@@ -35684,7 +35684,7 @@
 连轴转	lian2'zhou2'zhuan4	35684
 零用	ling2'yong4	35685
 龙腾虎跃	long2'teng2'hu3'yue4	35686
-律己	lv4'ji3	35687
+律己	lü4'ji3	35687
 毛笔字	mao2'bi3'zi4	35688
 门脸儿	men2'lian3'er	35689
 弥勒佛	mi2'le4'fo2	35690
@@ -36010,7 +36010,7 @@
 裂化	lie4'hua4	36010
 龙凤呈祥	long2'feng4'cheng2'xiang2	36011
 路牌	lu4'pai2	36012
-旅游车	lv3'you2'che1	36013
+旅游车	lü3'you2'che1	36013
 卖乖	mai4'guai1	36014
 没商量	mei2'shang1'liang2	36015
 闷坐	men4'zuo4	36016
@@ -36111,7 +36111,7 @@
 长臂猿	chang2'bi4'yuan2	36111
 车轴	che1'zhou2	36112
 触须	chu4'xu1	36113
-从略	cong2'lve4	36114
+从略	cong2'lüe4	36114
 搭伙	da1'huo3	36115
 打拼	da3'pin1	36116
 打头阵	da3'tou2'zhen4	36117
@@ -36327,7 +36327,7 @@
 令旗	ling4'qi2	36327
 流年	liu2'nian2	36328
 露营	lu4'ying2	36329
-旅伴	lv3'ban4	36330
+旅伴	lü3'ban4	36330
 眯	mi2	36331
 明争暗斗	ming2'zheng1'an4'dou4	36332
 木片	mu4'pian4	36333
@@ -36471,7 +36471,7 @@
 化痰	hua4'tan2	36471
 欢蹦乱跳	huan1'beng4'luan4'tiao4	36472
 幻境	huan4'jing4	36473
-黄花闺女	huang2'hua1'gui1'nv	36474
+黄花闺女	huang2'hua1'gui1'nü	36474
 火枪	huo3'qiang1	36475
 记事本	ji4'shi4'ben3	36476
 夹克衫	jia1'ke4'shan1	36477
@@ -36522,7 +36522,7 @@
 如上	ru2'shang4	36522
 儒林	ru2'lin2	36523
 瑟缩	se4'suo1	36524
-善男信女	shan4'nan2'xin4'nv3	36525
+善男信女	shan4'nan2'xin4'nü3	36525
 捎话	shao1'hua4	36526
 涉世	she4'shi4	36527
 神游	shen2'you2	36528
@@ -36671,7 +36671,7 @@
 笼头	long2'tou	36671
 楼堂馆所	lou2'tang2'guan3'suo3	36672
 炉渣	lu2'zha1	36673
-膂力	lv3'li4	36674
+膂力	lü3'li4	36674
 沦亡	lun2'wang2	36675
 买卖人	mai3'mai4'ren2	36676
 麦浪	mai4'lang4	36677
@@ -36736,12 +36736,12 @@
 小拇指	xiao3'mu3'zhi3	36736
 小日子	xiao3'ri4'zi	36737
 心驰神往	xin1'chi2'shen2'wang3	36738
-行旅	xing2'lv3	36739
+行旅	xing2'lü3	36739
 续弦	xu4'xian2	36740
 熏染	xun1'ran3	36741
 药典	yao4'dian3	36742
 药粉	yao4'fen3	36743
-野驴	ye3'lv2	36744
+野驴	ye3'lü2	36744
 夜车	ye4'che1	36745
 衣锦还乡	yi1'jin3'huan2'xiang1	36746
 衣扣	yi1'kou4	36747
@@ -36990,7 +36990,7 @@
 覆舟	fu4'zhou1	36990
 干脆利落	gan1'cui4'li4'luo	36991
 感恩戴德	gan3'en1'dai4'de2	36992
-橄榄绿	gan3'lan3'lv4	36993
+橄榄绿	gan3'lan3'lü4	36993
 港府	gang3'fu3	36994
 高寿	gao1'shou4	36995
 隔断	ge2'duan	36996
@@ -37346,7 +37346,7 @@
 飞临	fei1'lin2	37346
 废人	fei4'ren2	37347
 分秒	fen1'miao3	37348
-焚掠	fen2'lve4	37349
+焚掠	fen2'lüe4	37349
 蜂拥而上	feng1'yong1'er2'shang4	37350
 缝子	feng4'zi	37351
 附会	fu4'hui4	37352
@@ -37381,8 +37381,8 @@
 老糊涂	lao3'hu2'tu	37381
 愣是	leng4'shi4	37382
 连阴雨	lian2'yin1'yu3	37383
-律令	lv4'ling4	37384
-绿宝石	lv4'bao3'shi2	37385
+律令	lü4'ling4	37384
+绿宝石	lü4'bao3'shi2	37385
 马靴	ma3'xue1	37386
 美餐	mei3'can1	37387
 美人计	mei3'ren2'ji4	37388
@@ -37566,8 +37566,8 @@
 礼拜堂	li3'bai4'tang2	37566
 囹圄	ling2'yu3	37567
 留守处	liu2'shou3'chu3	37568
-履带	lv3'dai4	37569
-掠取	lve4'qu3	37570
+履带	lü3'dai4	37569
+掠取	lüe4'qu3	37570
 满文	man3'wen2	37571
 毛虫	mao2'chong2	37572
 门庭冷落	men2'ting2'leng3'luo4	37573
@@ -37649,7 +37649,7 @@
 雨花石	yu3'hua1'shi2	37649
 原封	yuan2'feng1	37650
 原种	yuan2'zhong3	37651
-远虑	yuan3'lv4	37652
+远虑	yuan3'lü4	37652
 远足	yuan3'zu2	37653
 乐感	le4'gan3	37654
 愠色	yun4'se4	37655
@@ -37928,7 +37928,7 @@
 领结	ling3'jie2	37928
 溜光	liu1'guang1	37929
 瘤子	liu2'zi3	37930
-氯霉素	lv4'mei2'su4	37931
+氯霉素	lü4'mei2'su4	37931
 马镫	ma3'deng4	37932
 闷棍	men4'gun4	37933
 盟誓	meng2'shi4	37934
@@ -37942,7 +37942,7 @@
 逆水行舟	ni4'shui3'xing2'zhou1	37942
 农业国	nong2'ye4'guo2	37943
 暖水瓶	nuan3'shui3'ping2	37944
-虐杀	nve4'sha1	37945
+虐杀	nüe4'sha1	37945
 抛光	pao1'guang1	37946
 炮口	pao4'kou3	37947
 疱疹	pao4'zhen3	37948
@@ -38299,7 +38299,7 @@
 旷达	kuang4'da2	38299
 来势汹汹	lai2'shi4'xiong1'xiong1	38300
 良港	liang2'gang3	38301
-靓女	liang4'nv3	38302
+靓女	liang4'nü3	38302
 了断	liao3'duan4	38303
 另眼看待	ling4'yan3'kan4'dai4	38304
 流芳	liu2'fang1	38305
@@ -38439,7 +38439,7 @@
 春假	chun1'jia4	38439
 蠢动	chun3'dong4	38440
 摧枯拉朽	cui1'ku1'la1'xiu3	38441
-存活率	cun2'huo2'lv4	38442
+存活率	cun2'huo2'lü4	38442
 打火	da3'huo3	38443
 大鸣大放	da4'ming2'da4'fang4	38444
 盗名	dao4'ming2	38445
@@ -38715,7 +38715,7 @@
 蜡染	la4'ran3	38715
 老实人	lao3'shi2'ren2	38716
 流云	liu2'yun2	38717
-履历表	lv3'li4'biao3	38718
+履历表	lü3'li4'biao3	38718
 珞巴族	luo4'ba1'zu2	38719
 满员	man3'yuan2	38720
 没治	mei2'zhi4	38721
@@ -39185,7 +39185,7 @@
 虾子	xia1'zi	39185
 项背	xiang4'bei4	39186
 项圈	xiang4'quan1	39187
-孝女	xiao4'nv3	39188
+孝女	xiao4'nü3	39188
 校刊	xiao4'kan1	39189
 协理	xie2'li3	39190
 鞋面	xie2'mian4	39191
@@ -39594,7 +39594,7 @@
 时新	shi2'xin1	39594
 市花	shi4'hua1	39595
 受领	shou4'ling3	39596
-受虐	shou4'nve4	39597
+受虐	shou4'nüe4	39597
 书简	shu1'jian3	39598
 衰颓	shuai1'tui2	39599
 顺风耳	shun4'feng1'er3	39600
@@ -39932,7 +39932,7 @@
 回水	hui2'shui3	39932
 活字	huo2'zi4	39933
 火罐儿	huo3'guan4'er	39934
-机率	ji1'lv4	39935
+机率	ji1'lü4	39935
 急风暴雨	ji2'feng1'bao4'yu3	39936
 集大成	ji2'da4'cheng2	39937
 假案	jia3'an4	39938
@@ -40336,7 +40336,7 @@
 短讯	duan3'xun4	40336
 堆肥	dui1'fei2	40337
 发报	fa1'bao4	40338
-发绿	fa1'lv4	40339
+发绿	fa1'lü4	40339
 反绑	fan3'bang3	40340
 反扒	fan3'ba1	40341
 反诉	fan3'su4	40342
@@ -40347,7 +40347,7 @@
 风声鹤唳	feng1'sheng1'he4'li4	40347
 氟利昂	fu2'li4'ang2	40348
 俯拾即是	fu3'shi2'ji2'shi4	40349
-概略	gai4'lve4	40350
+概略	gai4'lüe4	40350
 敢是	gan3'shi4	40351
 刚正	gang1'zheng4	40352
 工笔画	gong1'bi3'hua4	40353
@@ -40484,7 +40484,7 @@
 已极	yi3'ji2	40484
 庸人自扰	yong1'ren2'zi4'rao3	40485
 幽远	you1'yuan3	40486
-油绿	you2'lv4	40487
+油绿	you2'lü4	40487
 又及	you4'ji2	40488
 瘀血	yu1'xue4	40489
 鱼叉	yu2'cha1	40490
@@ -40520,7 +40520,7 @@
 脖领儿	bo2'ling3'er	40520
 醭	bu2	40521
 补缀	bu3'zhui4	40522
-才略	cai2'lve4	40523
+才略	cai2'lüe4	40523
 裁缝	cai2'feng2	40524
 踩高跷	cai3'gao1'qiao1	40525
 仓容	cang1'rong2	40526
@@ -40570,7 +40570,7 @@
 合称	he2'cheng1	40570
 合订本	he2'ding4'ben3	40571
 红极一时	hong2'ji2'yi1'shi2	40572
-红男绿女	hong2'nan2'lv4'nv3	40573
+红男绿女	hong2'nan2'lü4'nü3	40573
 猴头	hou2'tou2	40574
 厚葬	hou4'zang4	40575
 胡搅蛮缠	hu2'jiao3'man2'chan2	40576
@@ -40646,7 +40646,7 @@
 拾荒	shi2'huang1	40646
 示警	shi4'jing3	40647
 鼠类	shu3'lei4	40648
-水绿	shui3'lv4	40649
+水绿	shui3'lü4	40649
 税票	shui4'piao4	40650
 说项	shuo1'xiang4	40651
 私方	si1'fang1	40652
@@ -40694,7 +40694,7 @@
 鱼贯而入	yu2'guan4'er2'ru4	40694
 雨蒙蒙	yu3'meng2'meng2	40695
 语流	yu3'liu2	40696
-玉女	yu4'nv3	40697
+玉女	yu4'nü3	40697
 御花园	yu4'hua1'yuan2	40698
 冤大头	yuan1'da4'tou2	40699
 原话	yuan2'hua4	40700
@@ -40832,7 +40832,7 @@
 六六六	liu4'liu4'liu4	40832
 龙钟	long2'zhong1	40833
 漏风	lou4'feng1	40834
-略知一二	lve4'zhi1'yi1'er4	40835
+略知一二	lüe4'zhi1'yi1'er4	40835
 论价	lun4'jia4	40836
 麻麻亮	ma1'ma'liang4	40837
 毛丫头	mao2'ya1'tou2	40838
@@ -40934,10 +40934,10 @@
 增白剂	zeng1'bai2'ji4	40934
 增建	zeng1'jian4	40935
 战表	zhan4'biao3	40936
-战略物资	zhan4'lve4'wu4'zi1	40937
+战略物资	zhan4'lüe4'wu4'zi1	40937
 长官意志	zhang3'guan1'yi4'zhi4	40938
 找门路	zhao3'men2'lu4	40939
-织女星	zhi1'nv3'xing1	40940
+织女星	zhi1'nü3'xing1	40940
 指挥若定	zhi3'hui1'ruo4'ding4	40941
 中医师	zhong1'yi1'shi1	40942
 终久	zhong1'jiu3	40943
@@ -41266,7 +41266,7 @@
 洁具	jie2'ju4	41266
 解愁	jie3'chou2	41267
 解构	jie3'gou4	41268
-金童玉女	jin1'tong2'yu4'nv3	41269
+金童玉女	jin1'tong2'yu4'nü3	41269
 进击	jin4'ji1	41270
 菁菁	jing1'jing1	41271
 景颇族	jing3'po1'zu2	41272
@@ -41280,7 +41280,7 @@
 劳神	lao2'shen2	41280
 磷脂	lin2'zhi1	41281
 流水账	liu2'shui3'zhang4	41282
-滤波	lv4'bo1	41283
+滤波	lü4'bo1	41283
 乱弹琴	luan4'tan2'qin2	41284
 落草	luo4'cao3	41285
 麻线	ma2'xian4	41286
@@ -41291,7 +41291,7 @@
 棉线	mian2'xian4	41291
 秒针	miao3'zhen1	41292
 末流	mo4'liu2	41293
-男尊女卑	nan2'zun1'nv3'bei1	41294
+男尊女卑	nan2'zun1'nü3'bei1	41294
 年夜	nian2'ye4	41295
 孽障	nie4'zhang4	41296
 排险	pai2'xian3	41297
@@ -41385,7 +41385,7 @@
 扎堆	zha1'dui1	41385
 渣土	zha1'tu3	41386
 宅第	zhai2'di4	41387
-折旧率	zhe2'jiu4'lv4	41388
+折旧率	zhe2'jiu4'lü4	41388
 砧板	zhen1'ban3	41389
 镇静剂	zhen4'jing4'ji4	41390
 志得意满	zhi4'de2'yi4'man3	41391
@@ -41504,7 +41504,7 @@
 遛弯儿	liu4'wan1'er	41504
 蝼蚁	lou2'yi3	41505
 路风	lu4'feng1	41506
-绿莹莹	lv4'ying2'ying2	41507
+绿莹莹	lü4'ying2'ying2	41507
 螺钉	luo2'ding1	41508
 马头琴	ma3'tou2'qin2	41509
 满打满算	man3'da3'man3'suan4	41510
@@ -41522,7 +41522,7 @@
 蓬松松	peng2'song1'song1	41522
 篷子	peng2'zi3	41523
 偏房	pian1'fang2	41524
-剽掠	piao1'lve4	41525
+剽掠	piao1'lüe4	41525
 妻小	qi1'xiao3	41526
 启明星	qi3'ming2'xing1	41527
 卡壳	qia3'ke2	41528
@@ -41530,7 +41530,7 @@
 强震	qiang2'zhen4	41530
 敲竹杠	qiao1'zhu2'gang4	41531
 清仓	qing1'cang1	41532
-清规戒律	qing1'gui1'jie4'lv4	41533
+清规戒律	qing1'gui1'jie4'lü4	41533
 秋分	qiu1'fen1	41534
 曲高和寡	qu3'gao1'he4'gua3	41535
 犬齿	quan3'chi3	41536
@@ -41543,7 +41543,7 @@
 商法	shang1'fa3	41543
 神异	shen2'yi4	41544
 生鱼片	sheng1'yu2'pian4	41545
-甥女	sheng1'nv3	41546
+甥女	sheng1'nü3	41546
 胜境	sheng4'jing4	41547
 尸横遍野	shi1'heng2'bian4'ye3	41548
 师哥	shi1'ge1	41549
@@ -41651,7 +41651,7 @@
 不打自招	bu4'da3'zi4'zhao1	41651
 布帛	bu4'bo2	41652
 才思	cai2'si1	41653
-残虐	can2'nve4	41654
+残虐	can2'nüe4	41654
 舱室	cang1'shi4	41655
 超拔	chao1'ba2	41656
 成说	cheng2'shuo1	41657
@@ -41663,7 +41663,7 @@
 吹胡子瞪眼	chui1'hu2'zi3'deng4'yan3	41663
 垂首	chui2'shou3	41664
 春情	chun1'qing2	41665
-次女	ci4'nv3	41666
+次女	ci4'nü3	41666
 赐教	ci4'jiao4	41667
 催眠术	cui1'mian2'shu4	41668
 打挺儿	da3'ting3'er	41669
@@ -41864,14 +41864,14 @@
 紫铜	zi3'tong2	41864
 自我标榜	zi4'wo3'biao1'bang3	41865
 字帖	zi4'tie4	41866
-棕榈油	zong1'lv2'you2	41867
+棕榈油	zong1'lü2'you2	41867
 阻遏	zu3'e4	41868
 暗探	an4'tan4	41869
 摆谱儿	bai3'pu3'er	41870
 碑记	bei1'ji4	41871
 碑铭	bei1'ming2	41872
 毙伤	bi4'shang1	41873
-筚路蓝缕	bi4'lu4'lan2'lv3	41874
+筚路蓝缕	bi4'lu4'lan2'lü3	41874
 秉烛	bing3'zhu2	41875
 不耻下问	bu4'chi3'xia4'wen4	41876
 不端	bu4'duan1	41877
@@ -41960,7 +41960,7 @@
 叫苦连天	jiao4'ku3'lian2'tian1	41960
 孑遗	jie2'yi2	41961
 节选	jie2'xuan3	41962
-金科玉律	jin1'ke1'yu4'lv4	41963
+金科玉律	jin1'ke1'yu4'lü4	41963
 噤若寒蝉	jin4'ruo4'han2'chan2	41964
 京韵大鼓	jing1'yun4'da4'gu3	41965
 经年累月	jing1'nian2'lei3'yue4	41966
@@ -42000,7 +42000,7 @@
 拟稿	ni3'gao3	42000
 年刊	nian2'kan1	42001
 年事	nian2'shi4	42002
-女家	nv3'jia1	42003
+女家	nü3'jia1	42003
 藕荷	ou3'he2	42004
 爬格子	pa2'ge2'zi	42005
 拼图	pin1'tu2	42006
@@ -42120,7 +42120,7 @@
 撞钟	zhuang4'zhong1	42120
 自矜	zi4'jin1	42121
 钻井平台	zuan4'jing3'ping2'tai2	42122
-暗绿	an4'lv4	42123
+暗绿	an4'lü4	42123
 白丁	bai2'ding1	42124
 白皮松	bai2'pi2'song1	42125
 百战不殆	bai3'zhan4'bu4'dai4	42126
@@ -42281,7 +42281,7 @@
 任其自然	ren4'qi2'zi4'ran2	42281
 戎机	rong2'ji1	42282
 若明若暗	ruo4'ming2'ruo4'an4	42283
-杀掠	sha1'lve4	42284
+杀掠	sha1'lüe4	42284
 蛇形	she2'xing2	42285
 生态农业	sheng1'tai4'nong2'ye4	42286
 失陪	shi1'pei2	42287
@@ -42764,7 +42764,7 @@
 棚户	peng2'hu4	42764
 漂亮话	piao4'liang'hua4	42765
 品头论足	pin3'tou2'lun4'zu2	42766
-苹果绿	ping2'guo3'lv4	42767
+苹果绿	ping2'guo3'lü4	42767
 漆皮	qi1'pi2	42768
 歧异	qi2'yi4	42769
 桥身	qiao2'shen1	42770
@@ -42780,7 +42780,7 @@
 砂浆	sha1'jiang1	42780
 身手不凡	shen1'shou3'bu4'fan2	42781
 深通	shen1'tong1	42782
-生态旅游	sheng1'tai4'lv3'you2	42783
+生态旅游	sheng1'tai4'lü3'you2	42783
 鼠目寸光	shu3'mu4'cun4'guang1	42784
 双轨制	shuang1'gui3'zhi4	42785
 水法	shui3'fa3	42786
@@ -42859,7 +42859,7 @@
 兵不血刃	bing1'bu4'xue4'ren4	42859
 兵饷	bing1'xiang3	42860
 病况	bing4'kuang4	42861
-不绝如缕	bu4'jue2'ru2'lv3	42862
+不绝如缕	bu4'jue2'ru2'lü3	42862
 不孕症	bu4'yun4'zheng4	42863
 猜透	cai1'tou4	42864
 菜系	cai4'xi4	42865
@@ -42963,7 +42963,7 @@
 猎鹰	lie4'ying1	42963
 灵床	ling2'chuang2	42964
 留余地	liu2'yu2'di4	42965
-绿藻	lv4'zao3	42966
+绿藻	lü4'zao3	42966
 麻糖	ma2'tang2	42967
 码放	ma3'fang4	42968
 冒头	mao4'tou2	42969
@@ -43041,7 +43041,7 @@
 糖衣	tang2'yi1	43041
 套车	tao4'che1	43042
 天网恢恢	tian1'wang3'hui1'hui1	43043
-条分缕析	tiao2'fen1'lv3'xi1	43044
+条分缕析	tiao2'fen1'lü3'xi1	43044
 调护	tiao2'hu4	43045
 听而不闻	ting1'er2'bu4'wen2	43046
 通存通兑	tong1'cun2'tong1'dui4	43047
@@ -43460,7 +43460,7 @@
 两性关系	liang3'xing4'guan1'xi4	43460
 零存整取	ling2'cun2'zheng3'qu3	43461
 陋俗	lou4'su2	43462
-履新	lv3'xin1	43463
+履新	lü3'xin1	43463
 乱搞	luan4'gao3	43464
 麦冬	mai4'dong1	43465
 卖座	mai4'zuo4	43466
@@ -43472,8 +43472,8 @@
 默写	mo4'xie3	43472
 内债	nei4'zhai4	43473
 尿床	niao4'chuang2	43474
-女奴	nv3'nu2	43475
-疟原虫	nve4'yuan2'chong2	43476
+女奴	nü3'nu2	43475
+疟原虫	nüe4'yuan2'chong2	43476
 挪窝儿	nuo2'wo1'er	43477
 殴斗	ou1'dou3	43478
 排枪	pai2'qiang1	43479
@@ -43543,7 +43543,7 @@
 雄兵	xiong2'bing1	43543
 玄奥	xuan2'ao4	43544
 悬垂	xuan2'chui2	43545
-削足适履	xue1'zu2'shi4'lv3	43546
+削足适履	xue1'zu2'shi4'lü3	43546
 严令	yan2'ling4	43547
 研修生	yan2'xiu1'sheng1	43548
 眼眶子	yan3'kuang4'zi3	43549
@@ -43561,7 +43561,7 @@
 犹大	you2'da4	43561
 油垢	you2'gou4	43562
 油头粉面	you2'tou2'fen3'mian4	43563
-圆周率	yuan2'zhou1'lv4	43564
+圆周率	yuan2'zhou1'lü4	43564
 乐理	yue4'li3	43565
 杂木	za2'mu4	43566
 赞礼	zan4'li3	43567
@@ -43616,7 +43616,7 @@
 吃回扣	chi1'hui2'kou4	43616
 重孙	chong2'sun1	43617
 抽风	chou1'feng1	43618
-出栏率	chu1'lan2'lv4	43619
+出栏率	chu1'lan2'lü4	43619
 船户	chuan2'hu4	43620
 纯毛	chun2'mao2	43621
 存世	cun2'shi4	43622
@@ -44248,7 +44248,7 @@
 投生	tou2'sheng1	44248
 图利	tu2'li4	44249
 土坝	tu3'ba4	44250
-拖儿带女	tuo1'er'dai4'nv3	44251
+拖儿带女	tuo1'er'dai4'nü3	44251
 脱盲	tuo1'mang2	44252
 万人坑	wan4'ren2'keng1	44253
 温湿	wen1'shi1	44254
@@ -44266,7 +44266,7 @@
 小公共	xiao3'gong1'gong4	44266
 斜街	xie2'jie1	44267
 斜井	xie2'jing3	44268
-信女	xin4'nv3	44269
+信女	xin4'nü3	44269
 刑事判决	xing2'shi4'pan4'jue2	44270
 形神兼备	xing2'shen2'jian1'bei4	44271
 续娶	xu4'qu3	44272
@@ -44407,7 +44407,7 @@
 观后感	guan1'hou4'gan3	44407
 观象台	guan1'xiang4'tai2	44408
 归拢	gui1'long3	44409
-国际妇女节	guo2'ji4'fu4'nv3'jie2	44410
+国际妇女节	guo2'ji4'fu4'nü3'jie2	44410
 国际公法	guo2'ji4'gong1'fa3	44411
 海象	hai3'xiang4	44412
 氦气	hai4'qi4	44413
@@ -44435,7 +44435,7 @@
 金钗	jin1'chai1	44435
 金曲	jin1'qu3	44436
 仅见	jin3'jian4	44437
-经略	jing1'lve4	44438
+经略	jing1'lüe4	44438
 经手人	jing1'shou3'ren2	44439
 竞销	jing4'xiao1	44440
 酒令	jiu3'ling4	44441
@@ -44449,7 +44449,7 @@
 快嘴	kuai4'zui3	44449
 哐啷	kuang1'lang1	44450
 括弧	kuo4'hu2	44451
-郎才女貌	lang2'cai2'nv3'mao4	44452
+郎才女貌	lang2'cai2'nü3'mao4	44452
 狼疮	lang2'chuang1	44453
 乐天派	le4'tian1'pai4	44454
 累活儿	lei3'huo2'er2	44455
@@ -44683,7 +44683,7 @@
 官官相护	guan1'guan1'xiang1'hu4	44683
 管见	guan3'jian4	44684
 过话	guo4'hua4	44685
-过滤嘴儿	guo4'lv4'zui3'er2	44686
+过滤嘴儿	guo4'lü4'zui3'er2	44686
 过眼云烟	guo4'yan3'yun2'yan1	44687
 过犹不及	guo4'you2'bu4'ji2	44688
 孩子头儿	hai2'zi3'tou2'er2	44689
@@ -44746,7 +44746,7 @@
 蝼蛄	lou2'gu1	44746
 镂刻	lou4'ke4	44747
 路条	lu4'tiao2	44748
-铝锅	lv3'guo1	44749
+铝锅	lü3'guo1	44749
 落叶归根	luo4'ye4'gui1'gen1	44750
 麻秆儿	ma2'gan3'er	44751
 马步	ma3'bu4	44752
@@ -44767,7 +44767,7 @@
 母夜叉	mu3'ye4'cha1	44767
 目无法纪	mu4'wu2'fa3'ji4	44768
 奶糖	nai3'tang2	44769
-男盗女娼	nan2'dao4'nv3'chang1	44770
+男盗女娼	nan2'dao4'nü3'chang1	44770
 南房	nan2'fang2	44771
 内向型	nei4'xiang4'xing2	44772
 尼龙绳	ni2'long2'sheng2	44773
@@ -45117,7 +45117,7 @@
 贴钱	tie1'qian2	45117
 童男	tong2'nan2	45118
 偷安	tou1'an1	45119
-投诉率	tou2'su4'lv4	45120
+投诉率	tou2'su4'lü4	45120
 推延	tui1'yan2	45121
 吞服	tun1'fu2	45122
 脱毛	tuo1'mao2	45123
@@ -45246,7 +45246,7 @@
 断根	duan4'gen1	45246
 顿号	dun4'hao4	45247
 鹅绒	e2'rong2	45248
-儿女亲家	er2'nv3'qing4'jia	45249
+儿女亲家	er2'nü3'qing4'jia	45249
 发榜	fa1'bang3	45250
 发报机	fa1'bao4'ji1	45251
 发明权	fa1'ming2'quan2	45252
@@ -45328,7 +45328,7 @@
 恋旧	lian4'jiu4	45328
 寥廓	liao2'kuo4	45329
 六畜	liu4'chu4	45330
-滤波器	lv4'bo1'qi4	45331
+滤波器	lü4'bo1'qi4	45331
 毛刺	mao2'ci4	45332
 貌合神离	mao4'he2'shen2'li2	45333
 孟夏	meng4'xia4	45334
@@ -45697,7 +45697,7 @@
 水性杨花	shui3'xing4'yang2'hua1	45697
 思慕	si1'mu4	45698
 酸辣汤	suan1'la4'tang1	45699
-缩略	suo1'lve4	45700
+缩略	suo1'lüe4	45700
 锁钥	suo3'yue4	45701
 太空垃圾	tai4'kong1'la1'ji1	45702
 摊档	tan1'dang4	45703
@@ -45959,7 +45959,7 @@
 捏合	nie1'he2	45959
 宁缺毋滥	ning4'que1'wu2'lan4	45960
 牛倌	niu2'guan1	45961
-女厕	nv3'ce4	45962
+女厕	nü3'ce4	45962
 跑调	pao3'diao4	45963
 票号	piao4'hao4	45964
 普度	pu3'du4	45965
@@ -46403,7 +46403,7 @@
 吃食堂	chi1'shi2'tang2	46403
 冲要	chong1'yao4	46404
 出镜	chu1'jing4	46405
-处女膜	chu3'nv3'mo2	46406
+处女膜	chu3'nü3'mo2	46406
 船桨	chuan2'jiang3	46407
 串亲戚	chuan4'qin1'qi	46408
 春药	chun1'yao4	46409
@@ -46442,7 +46442,7 @@
 返利	fan3'li4	46442
 仿生	fang3'sheng1	46443
 访查	fang3'cha2	46444
-飞掠	fei1'lve4	46445
+飞掠	fei1'lüe4	46445
 费尽心血	fei4'jin4'xin1'xue4	46446
 奉祀	feng4'si4	46447
 改年	gai3'nian2	46448
@@ -46528,7 +46528,7 @@
 内窥镜	nei4'kui1'jing4	46528
 逆党	ni4'dang3	46529
 娘亲	niang2'qin1	46530
-女气	nv3'qi	46531
+女气	nü3'qi	46531
 啪嗒	pa1'da1	46532
 判词	pan4'ci2	46533
 陪绑	pei2'bang3	46534
@@ -46545,7 +46545,7 @@
 奇志	qi2'zhi4	46545
 棋风	qi2'feng1	46546
 起夜	qi3'ye4	46547
-黔驴技穷	qian2'lv2'ji4'qiong2	46548
+黔驴技穷	qian2'lü2'ji4'qiong2	46548
 枪机	qiang1'ji1	46549
 清水衙门	qing1'shui3'ya2'men2	46550
 请援	qing3'yuan2	46551
@@ -46586,7 +46586,7 @@
 泰山压顶	tai4'shan1'ya1'ding3	46586
 探雷	tan4'lei2	46587
 淌汗	tang3'han4	46588
-桃红柳绿	tao2'hong2'liu3'lv4	46589
+桃红柳绿	tao2'hong2'liu3'lü4	46589
 鹈鹕	ti2'hu2	46590
 体认	ti3'ren4	46591
 天葬	tian1'zang4	46592
@@ -46821,7 +46821,7 @@
 聊天室	liao2'tian1'shi4	46821
 羚牛	ling2'niu2	46822
 芦荡	lu2'dang4	46823
-屡试不爽	lv3'shi4'bu4'shuang3	46824
+屡试不爽	lü3'shi4'bu4'shuang3	46824
 略胜一筹	lue4'sheng4'yi1'chou2	46825
 萝卜花	luo2'bo'hua1	46826
 落地灯	luo4'di4'deng1	46827
@@ -46845,7 +46845,7 @@
 拟古	ni3'gu3	46845
 尿酸	niao4'suan1	46846
 凝目	ning2'mu4	46847
-女公子	nv3'gong1'zi3	46848
+女公子	nü3'gong1'zi3	46848
 排练场	pai2'lian4'chang3	46849
 派活儿	pai4'huo2'er2	46850
 判罪	pan4'zui4	46851
@@ -46989,7 +46989,7 @@
 保育院	bao3'yu4'yuan4	46989
 爆肚儿	bao4'du3'er	46990
 卑躬屈膝	bei1'gong1'qu1'xi1	46991
-倍率	bei4'lv4	46992
+倍率	bei4'lü4	46992
 鼻窦炎	bi2'dou4'yan2	46993
 比及	bi3'ji2	46994
 贬官	bian3'guan1	46995
@@ -47218,7 +47218,7 @@
 险固	xian3'gu4	47218
 线路板	xian4'lu4'ban3	47219
 线路图	xian4'lu4'tu2	47220
-详略	xiang2'lve4	47221
+详略	xiang2'lüe4	47221
 小修	xiao3'xiu1	47222
 鞋样	xie2'yang4	47223
 心怀叵测	xin1'huai2'po3'ce4	47224
@@ -47281,7 +47281,7 @@
 字符集	zi4'fu2'ji2	47281
 棕红	zong1'hong2	47282
 祖庙	zu3'miao4	47283
-祖母绿	zu3'mu3'lv4	47284
+祖母绿	zu3'mu3'lü4	47284
 佐餐	zuo3'can1	47285
 做人情	zuo4'ren2'qing2	47286
 爱屋及乌	ai4'wu1'ji2'wu1	47287
@@ -47301,7 +47301,7 @@
 薄礼	bo2'li3	47301
 卜辞	bu3'ci2	47302
 不二法门	bu4'er4'fa3'men2	47303
-苍绿	cang1'lv4	47304
+苍绿	cang1'lü4	47304
 草台班子	cao3'tai2'ban1'zi	47305
 产床	chan3'chuang2	47306
 长缨	chang2'ying1	47307
@@ -47755,8 +47755,8 @@
 量具	liang2'ju4	47755
 榴弹炮	liu2'dan4'pao4	47756
 六腑	liu4'fu3	47757
-绿帽子	lv4'mao4'zi	47758
-绿茸茸	lv4'rong2'rong2	47759
+绿帽子	lü4'mao4'zi	47758
+绿茸茸	lü4'rong2'rong2	47759
 略见一斑	lue4'jian4'yi1'ban1	47760
 罗汉松	luo2'han4'song1	47761
 落拓	luo4'tuo4	47762
@@ -48300,7 +48300,7 @@
 带菌	dai4'jun1	48300
 待查	dai4'cha2	48301
 待续	dai4'xu4	48302
-戴绿帽	dai4'lv4'mao4	48303
+戴绿帽	dai4'lü4'mao4	48303
 单元门	dan1'yuan2'men2	48304
 淡而无味	dan4'er2'wu2'wei4	48305
 弹无虚发	dan4'wu2'xu1'fa1	48306
@@ -48313,7 +48313,7 @@
 顶班	ding3'ban1	48313
 动兵	dong4'bing1	48314
 抖威风	dou3'wei1'feng1	48315
-豆绿	dou4'lv4	48316
+豆绿	dou4'lü4	48316
 逗哏	dou4'gen2	48317
 髑髅	du2'lou2	48318
 堵心	du3'xin1	48319
@@ -48347,7 +48347,7 @@
 宫颈	gong1'jing3	48347
 古文献	gu3'wen2'xian4	48348
 故世	gu4'shi4	48349
-挂虑	gua4'lv4	48350
+挂虑	gua4'lü4	48350
 乖谬	guai1'miu4	48351
 怪石嶙峋	guai4'shi2'lin2'xun2	48352
 管乐器	guan3'yue4'qi4	48353
@@ -48413,7 +48413,7 @@
 留居	liu2'ju1	48413
 路警	lu4'jing3	48414
 戮力	lu4'li4	48415
-屡战屡败	lv3'zhan4'lv3'bai4	48416
+屡战屡败	lü3'zhan4'lü3'bai4	48416
 挛缩	luan2'suo1	48417
 洛阳纸贵	luo4'yang2'zhi3'gui4	48418
 马大哈	ma3'da4'ha1	48419
@@ -48537,7 +48537,7 @@
 细嚼慢咽	xi4'jiao2'man4'ye4	48537
 下集	xia4'ji2	48538
 纤小	xian1'xiao3	48539
-鲜绿	xian1'lv4	48540
+鲜绿	xian1'lü4	48540
 闲荡	xian2'dang4	48541
 险象	xian3'xiang4	48542
 相思鸟	xiang1'si1'niao3	48543
@@ -48662,7 +48662,7 @@
 冲犯	chong1'fan4	48662
 抽水站	chou1'shui3'zhan4	48663
 出将入相	chu1'jiang4'ru4'xiang4	48664
-出勤率	chu1'qin2'lv4	48665
+出勤率	chu1'qin2'lü4	48665
 雏菊	chu2'ju2	48666
 垂髫	chui2'tiao2	48667
 春宵	chun1'xiao1	48668
@@ -48742,7 +48742,7 @@
 护持	hu4'chi2	48742
 花生酱	hua1'sheng1'jiang4	48743
 回锅	hui2'guo1	48744
-婚生子女	hun1'sheng1'zi3'nv3	48745
+婚生子女	hun1'sheng1'zi3'nü3	48745
 火碱	huo3'jian3	48746
 火性	huo3'xing4	48747
 货样	huo4'yang4	48748
@@ -48773,7 +48773,7 @@
 看不上	kan4'bu4'shang4	48773
 科盲	ke1'mang2	48774
 渴慕	ke3'mu4	48775
-酷虐	ku4'nve4	48776
+酷虐	ku4'nüe4	48776
 胯下	kua4'xia4	48777
 宽体	kuan1'ti3	48778
 馈送	kui4'song4	48779
@@ -48815,7 +48815,7 @@
 捏弄	nie1'nong	48815
 扭摆	niu3'bai3	48816
 怒族	nu4'zu2	48817
-女车	nv3'che1	48818
+女车	nü3'che1	48818
 俳句	pai2'ju4	48819
 盘费	pan2'fei4	48820
 跑旱船	pao3'han4'chuan2	48821
@@ -49074,7 +49074,7 @@
 冻肉	dong4'rou4	49074
 豆蔻	dou4'kou4	49075
 独门独院	du2'men2'du2'yuan4	49076
-独女	du2'nv3	49077
+独女	du2'nü3	49077
 队日	dui4'ri4	49078
 恶疾	e4'ji2	49079
 儿童村	er2'tong2'cun1	49080
@@ -49163,9 +49163,9 @@
 猎装	lie4'zhuang1	49163
 流窜犯	liu2'cuan4'fan4	49164
 楼船	lou2'chuan2	49165
-驴打滚	lv2'da3'gun3	49166
-屡战屡胜	lv3'zhan4'lv3'sheng4	49167
-绿篱	lv4'li2	49168
+驴打滚	lü2'da3'gun3	49166
+屡战屡胜	lü3'zhan4'lü3'sheng4	49167
+绿篱	lü4'li2	49168
 卵磷脂	luan3'lin2'zhi1	49169
 马路牙子	ma3'lu4'ya2'zi3	49170
 卖苦力	mai4'ku3'li4	49171
@@ -49187,8 +49187,8 @@
 蔫头耷脑	nian1'tou2'da1'nao3	49187
 尿检	niao4'jian3	49188
 奴化	nu2'hua4	49189
-女墙	nv3'qiang2	49190
-女优	nv3'you1	49191
+女墙	nü3'qiang2	49190
+女优	nü3'you1	49191
 偶一为之	ou3'yi1'wei2'zhi1	49192
 叛离	pan4'li2	49193
 炮位	pao4'wei4	49194
@@ -49317,7 +49317,7 @@
 雨燕	yu3'yan4	49317
 玉米螟	yu4'mi3'ming2	49318
 圆领衫	yuan2'ling3'shan1	49319
-韵律操	yun4'lv4'cao1	49320
+韵律操	yun4'lü4'cao1	49320
 杂糅	za2'rou2	49321
 藏红花	cang2'hong2'hua1	49322
 择交	ze2'jiao1	49323
@@ -49399,7 +49399,7 @@
 大礼拜	da4'li3'bai4	49399
 大屋顶	da4'wu1'ding3	49400
 呆笨	dai1'ben4	49401
-戴绿帽子	dai4'lv4'mao4'zi	49402
+戴绿帽子	dai4'lü4'mao4'zi	49402
 掸子	dan3'zi	49403
 蛋炒饭	dan4'chao3'fan4	49404
 倒手	dao3'shou3	49405
@@ -49521,7 +49521,7 @@
 六边形	liu4'bian1'xing2	49521
 陆运	lu4'yun4	49522
 路堤	lu4'di1	49523
-缕述	lv3'shu4	49524
+缕述	lü3'shu4	49524
 孪生子	luan2'sheng1'zi3	49525
 落俗套	luo4'su2'tao4	49526
 落霞	luo4'xia2	49527
@@ -49863,7 +49863,7 @@
 冷藏库	leng3'cang2'ku4	49863
 冷荤	leng3'hun1	49864
 里层	li3'ceng2	49865
-立体绿化	li4'ti3'lv4'hua4	49866
+立体绿化	li4'ti3'lü4'hua4	49866
 炼乳	lian4'ru3	49867
 寥落	liao2'luo4	49868
 燎泡	liao2'pao4	49869
@@ -49873,8 +49873,8 @@
 零打碎敲	ling2'da3'sui4'qiao1	49873
 留底	liu2'di3	49874
 溜子	liu4'zi	49875
-驴肝肺	lv2'gan1'fei4	49876
-闾里	lv2'li3	49877
+驴肝肺	lü2'gan1'fei4	49876
+闾里	lü2'li3	49877
 马后炮	ma3'hou4'pao4	49878
 冒号	mao4'hao4	49879
 没皮没脸	mei2'pi2'mei2'lian3	49880
@@ -49890,7 +49890,7 @@
 冥顽不灵	ming2'wan2'bu4'ling2	49890
 磨刀霍霍	mo2'dao1'huo4'huo4	49891
 磨烦	mo4'fan	49892
-谋虑	mou2'lv4	49893
+谋虑	mou2'lü4	49893
 暮鼓晨钟	mu4'gu3'chen2'zhong1	49894
 纳米技术	na4'mi3'ji4'shu4	49895
 囊虫	nang2'chong2	49896
@@ -49978,7 +49978,7 @@
 恬适	tian2'shi4	49978
 调级	tiao2'ji2	49979
 调弄	tiao2'nong4	49980
-童女	tong2'nv3	49981
+童女	tong2'nü3	49981
 童山	tong2'shan1	49982
 头油	tou2'you2	49983
 推见	tui1'jian4	49984
@@ -50261,7 +50261,7 @@
 龙潭虎穴	long2'tan2'hu3'xue2	50261
 隆盛	long2'sheng4	50262
 卤肉	lu3'rou4	50263
-律例	lv4'li4	50264
+律例	lü4'li4	50264
 轮盘	lun2'pan2	50265
 骆驼刺	luo4'tuo2'ci4	50266
 马粪纸	ma3'fen4'zhi3	50267
@@ -50313,7 +50313,7 @@
 任随	ren4'sui2	50313
 容光	rong2'guang1	50314
 肉案	rou4'an4	50315
-如履平地	ru2'lv3'ping2'di4	50316
+如履平地	ru2'lü3'ping2'di4	50316
 乳臭	ru3'xiu4	50317
 入超	ru4'chao1	50318
 软磨硬泡	ruan3'mo2'ying4'pao4	50319
@@ -50444,8 +50444,8 @@
 针线包	zhen1'xian4'bao1	50444
 整宿	zheng3'su4	50445
 支差	zhi1'cha1	50446
-侄女婿	zhi2'nv3'xu	50447
-侄孙女	zhi2'sun1'nv3	50448
+侄女婿	zhi2'nü3'xu	50447
+侄孙女	zhi2'sun1'nü3	50448
 窒闷	zhi4'men4	50449
 置喙	zhi4'hui4	50450
 竹鸡	zhu2'ji1	50451
@@ -50546,7 +50546,7 @@
 发哑	fa1'ya3	50546
 飞跨	fei1'kua4	50547
 非独	fei1'du2	50548
-非驴非马	fei1'lv2'fei1'ma3	50549
+非驴非马	fei1'lü2'fei1'ma3	50549
 肥实	fei2'shi2	50550
 分离器	fen1'li2'qi4	50551
 粉蝶	fen3'die2	50552
@@ -50558,7 +50558,7 @@
 幅宽	fu2'kuan1	50558
 辅币	fu3'bi4	50559
 父训	fu4'xun4	50560
-妇女病	fu4'nv3'bing4	50561
+妇女病	fu4'nü3'bing4	50561
 高知	gao1'zhi1	50562
 搁放	ge1'fang4	50563
 格物致知	ge2'wu4'zhi4'zhi1	50564
@@ -50986,7 +50986,7 @@
 后账	hou4'zhang4	50986
 胡侃	hu2'kan3	50987
 胡子茬儿	hu2'zi3'cha2'er	50988
-湖绿	hu2'lv4	50989
+湖绿	hu2'lü4	50989
 花纱布	hua1'sha1'bu4	50990
 画帖	hua4'tie4	50991
 还情	huan2'qing2	50992
@@ -51086,13 +51086,13 @@
 内眷	nei4'juan4	51086
 呢料	ne'liao4	51087
 尿频	niao4'pin2	51088
-女监	nv3'jian1	51089
+女监	nü3'jian1	51089
 旁路	pang2'lu4	51090
 泡子	pao1'zi	51091
 炮烙	pao2'luo4	51092
 配电网	pei4'dian4'wang3	51093
 碰碰车	peng4'peng'che1	51094
-披红挂绿	pi1'hong2'gua4'lv4	51095
+披红挂绿	pi1'hong2'gua4'lü4	51095
 霹雳舞	pi1'li4'wu3	51096
 票根	piao4'gen1	51097
 平畴	ping2'chou2	51098
@@ -51128,7 +51128,7 @@
 省略号	sheng3'lue4'hao4	51128
 失欢	shi1'huan1	51129
 师道尊严	shi1'dao4'zun1'yan2	51130
-诗律	shi1'lv4	51131
+诗律	shi1'lü4	51131
 石版	shi2'ban3	51132
 时调	shi2'diao4	51133
 使绊儿	shi3'ban4'er	51134
@@ -51476,7 +51476,7 @@
 流量计	liu2'liang4'ji4	51476
 卤菜	lu3'cai4	51477
 路不拾遗	lu4'bu4'shi2'yi2	51478
-略逊一筹	lve4'xun4'yi1'chou2	51479
+略逊一筹	lüe4'xun4'yi1'chou2	51479
 螺丝帽	luo2'si1'mao4	51480
 麻纺	ma2'fang3	51481
 马蹄铁	ma3'ti2'tie3	51482
@@ -51618,7 +51618,7 @@
 晓市	xiao3'shi4	51618
 晓事	xiao3'shi4	51619
 泻肚	xie4'du4	51620
-卸磨杀驴	xie4'mo4'sha1'lv2	51621
+卸磨杀驴	xie4'mo4'sha1'lü2	51621
 凶气	xiong1'qi4	51622
 雄黄酒	xiong2'huang2'jiu3	51623
 雄威	xiong2'wei1	51624
@@ -51729,7 +51729,7 @@
 彩扩	cai3'kuo4	51729
 残棋	can2'qi2	51730
 残渣余孽	can2'zha1'yu2'nie4	51731
-草驴	cao3'lv2	51732
+草驴	cao3'lü2	51732
 测谎仪	ce4'huang3'yi2	51733
 插空	cha1'kong4	51734
 插身	cha1'shen1	51735
@@ -51925,7 +51925,7 @@
 尿血	niao4'xie3	51925
 牛刀小试	niu2'dao1'xiao3'shi4	51926
 纽子	niu3'zi3	51927
-女能人	nv3'neng2'ren2	51928
+女能人	nü3'neng2'ren2	51928
 拍花	pai1'hua1	51929
 排子车	pai3'zi'che1	51930
 抛离	pao1'li2	51931
@@ -52217,7 +52217,7 @@
 放暗箭	fang4'an4'jian4	52217
 飞盘	fei1'pan2	52218
 非职务发明	fei1'zhi2'wu4'fa1'ming2	52219
-废品率	fei4'pin3'lv4	52220
+废品率	fei4'pin3'lü4	52220
 奋勉	fen4'mian3	52221
 烽燧	feng1'sui4	52222
 蜂腰	feng1'yao1	52223
@@ -52243,7 +52243,7 @@
 惯用语	guan4'yong4'yu3	52243
 光洁度	guang1'jie2'du4	52244
 犷悍	guang3'han4	52245
-国防绿	guo2'fang2'lv4	52246
+国防绿	guo2'fang2'lü4	52246
 过谦	guo4'qian1	52247
 过筛	guo4'shai1	52248
 海钓	hai3'diao4	52249
@@ -52298,7 +52298,7 @@
 街头剧	jie1'tou2'ju4	52298
 节减	jie2'jian3	52299
 结疤	jie2'ba1	52300
-金缕玉衣	jin1'lv3'yu4'yi1	52301
+金缕玉衣	jin1'lü3'yu4'yi1	52301
 金霉素	jin1'mei2'su4	52302
 金闪闪	jin1'shan3'shan3	52303
 尽然	jin4'ran2	52304
@@ -52341,7 +52341,7 @@
 漏夜	lou4'ye4	52341
 露底	lou4'di3	52342
 炉温	lu2'wen1	52343
-绿葱葱	lv4'cong1'cong1	52344
+绿葱葱	lü4'cong1'cong1	52344
 落发	luo4'fa4	52345
 麦糠	mai4'kang1	52346
 脉管炎	mai4'guan3'yan2	52347
@@ -52429,7 +52429,7 @@
 饰词	shi4'ci2	52429
 枢要	shu1'yao4	52430
 舒筋活血	shu1'jin1'huo2'xue4	52431
-疏略	shu1'lve4	52432
+疏略	shu1'lüe4	52432
 树墩	shu4'dun1	52433
 耍奸	shua3'jian1	52434
 爽目	shuang3'mu4	52435
@@ -52446,7 +52446,7 @@
 蒜黄	suan4'huang2	52446
 岁初	sui4'chu1	52447
 笋干儿	sun3'gan1'er2	52448
-缩水率	suo1'shui3'lv4	52449
+缩水率	suo1'shui3'lü4	52449
 索讨	suo3'tao3	52450
 探胜	tan4'sheng4	52451
 螳臂当车	tang2'bi4'dang4'che1	52452
@@ -52567,7 +52567,7 @@
 甑子	zeng4'zi3	52567
 扎花	zha1'hua1	52568
 掌班	zhang3'ban1	52569
-招女婿	zhao1'nv3'xu	52570
+招女婿	zhao1'nü3'xu	52570
 折戟沉沙	zhe2'ji3'chen2'sha1	52571
 赭黄色	zhe3'huang2'se4	52572
 蔗田	zhe4'tian2	52573
@@ -52834,8 +52834,8 @@
 陋规	lou4'gui1	52834
 漏检	lou4'jian3	52835
 录放	lu4'fang4	52836
-缕析	lv3'xi1	52837
-绿阴	lv4'yin1	52838
+缕析	lü3'xi1	52837
+绿阴	lü4'yin1	52838
 乱码	luan4'ma3	52839
 骆驼草	luo4'tuo2'cao3	52840
 落槌	luo4'chui2	52841
@@ -52967,7 +52967,7 @@
 听装	ting1'zhuang1	52967
 停板	ting2'ban3	52968
 通勤车	tong1'qin2'che1	52969
-铜绿	tong2'lv4	52970
+铜绿	tong2'lü4	52970
 童便	tong2'bian4	52971
 偷嘴	tou1'zui3	52972
 徒子徒孙	tu2'zi3'tu2'sun1	52973
@@ -53062,7 +53062,7 @@
 韵书	yun4'shu1	53062
 杂税	za2'shui4	53063
 枣糕	zao3'gao1	53064
-曾孙女	zeng1'sun1'nv3	53065
+曾孙女	zeng1'sun1'nü3	53065
 赠别	zeng4'bie2	53066
 诈唬	zha4'hu	53067
 诈尸	zha4'shi1	53068
@@ -53264,7 +53264,7 @@
 花盘	hua1'pan2	53264
 荒瘠	huang1'ji2	53265
 黄豆芽	huang2'dou4'ya2	53266
-回头率	hui2'tou2'lv4	53267
+回头率	hui2'tou2'lü4	53267
 回翔	hui2'xiang2	53268
 回涨	hui2'zhang3	53269
 汇拢	hui4'long3	53270
@@ -53330,13 +53330,13 @@
 领水	ling3'shui3	53330
 溜冰鞋	liu1'bing1'xie2	53331
 流盼	liu2'pan4	53332
-流失率	liu2'shi1'lv4	53333
+流失率	liu2'shi1'lü4	53333
 流食	liu2'shi2	53334
 碌碡	liu4'zhou2	53335
 拢共	long3'gong4	53336
 露富	lou4'fu4	53337
 庐山真面目	lu2'shan1'zhen1'mian4'mu4	53338
-略图	lve4'tu2	53339
+略图	lüe4'tu2	53339
 瘰疬	luo3'li4	53340
 猫儿眼	mao1'er'yan3	53341
 毛蓝	mao2'lan2	53342
@@ -53396,7 +53396,7 @@
 锐眼	rui4'yan3	53396
 撒酒疯	sa1'jiu3'feng1	53397
 塞牙	sai1'ya2	53398
-三八妇女节	san1'ba1'fu4'nv3'jie2	53399
+三八妇女节	san1'ba1'fu4'nü3'jie2	53399
 三花脸	san1'hua1'lian3	53400
 沙碛	sha1'qi4	53401
 傻瓜相机	sha3'gua1'xiang4'ji1	53402
@@ -53652,7 +53652,7 @@
 传粉	chuan2'fen3	53652
 传技	chuan2'ji4	53653
 传经送宝	chuan2'jing1'song4'bao3	53654
-垂直绿化	chui2'zhi2'lv4'hua4	53655
+垂直绿化	chui2'zhi2'lü4'hua4	53655
 戳儿	chuo1'er2	53656
 磁暴	ci2'bao4	53657
 次货	ci4'huo4	53658
@@ -53685,7 +53685,7 @@
 点卯	dian3'mao3	53685
 电磁炉	dian4'ci2'lu2	53686
 电磁铁	dian4'ci2'tie3	53687
-电功率	dian4'gong1'lv4	53688
+电功率	dian4'gong1'lü4	53688
 电教馆	dian4'jiao4'guan3	53689
 电路图	dian4'lu4'tu2	53690
 电声乐队	dian4'sheng1'yue4'dui4	53691
@@ -53741,7 +53741,7 @@
 耕畜	geng1'chu4	53741
 工字钢	gong1'zi4'gang1	53742
 公了	gong1'liao3	53743
-公文旅行	gong1'wen2'lv3'xing2	53744
+公文旅行	gong1'wen2'lü3'xing2	53744
 公子王孙	gong1'zi3'wang2'sun1	53745
 狗尾续貂	gou3'wei3'xu4'diao1	53746
 姑舅	gu1'jiu4	53747
@@ -53873,8 +53873,8 @@
 男性病	nan2'xing4'bing4	53873
 拟态	ni3'tai4	53874
 鸟尽弓藏	niao3'jin4'gong1'cang2	53875
-女里女气	nv3'li3'nv3'qi	53876
-疟蚊	nve4'wen2	53877
+女里女气	nü3'li3'nü3'qi	53876
+疟蚊	nüe4'wen2	53877
 排笔	pai2'bi3	53878
 派力司	pai4'li4'si1	53879
 朋辈	peng2'bei4	53880
@@ -53951,7 +53951,7 @@
 诉讼状	su4'song4'zhuang4	53951
 宿仇	su4'chou2	53952
 碎末儿	sui4'mo4'er2	53953
-孙女婿	sun1'nv3'xu	53954
+孙女婿	sun1'nü3'xu	53954
 榫头	sun3'tou2	53955
 缩写本	suo1'xie3'ben3	53956
 缩印	suo1'yin4	53957
@@ -54115,7 +54115,7 @@
 爱财如命	ai4'cai2'ru2'ming4	54115
 安养	an1'yang3	54116
 傲世	ao4'shi4	54117
-吧女	ba1'nv3	54118
+吧女	ba1'nü3	54118
 拔丝	ba2'si1	54119
 把角	ba3'jiao3	54120
 把水搅浑	ba3'shui3'jiao3'hun2	54121
@@ -54311,7 +54311,7 @@
 急口令	ji2'kou3'ling4	54311
 辑要	ji2'yao4	54312
 瘠瘦	ji2'shou4	54313
-继子女	ji4'zi3'nv3	54314
+继子女	ji4'zi3'nü3	54314
 价签	jia4'qian1	54315
 架子花	jia4'zi3'hua1	54316
 监规	jian1'gui1	54317
@@ -54328,7 +54328,7 @@
 近古	jin4'gu3	54328
 近体诗	jin4'ti3'shi1	54329
 近朱者赤，近墨者黑	jin4'zhu1'zhe3'chi4'jin4'mo4'zhe3'hei1	54330
-禁律	jin4'lv4	54331
+禁律	jin4'lü4	54331
 觐见	jin4'jian4	54332
 经闭	jing1'bi4	54333
 精肉	jing1'rou4	54334
@@ -54373,9 +54373,9 @@
 留尾巴	liu2'wei3'ba	54373
 炉箅子	lu2'bi4'zi3	54374
 路霸	lu4'ba4	54375
-屡次三番	lv3'ci4'san1'fan1	54376
-绿豆蝇	lv4'dou4'ying2	54377
-绿松石	lv4'song1'shi2	54378
+屡次三番	lü3'ci4'san1'fan1	54376
+绿豆蝇	lü4'dou4'ying2	54377
+绿松石	lü4'song1'shi2	54378
 略语	lue4'yu3	54379
 罗汉果	luo2'han4'guo3	54380
 络腮胡	luo4'sai1'hu2	54381
@@ -54409,7 +54409,7 @@
 拈阄	nian1'jiu1	54409
 尿壶	niao4'hu2	54410
 农轻重	nong2'qing1'zhong4	54411
-女儿墙	nv3'er2'qiang2	54412
+女儿墙	nü3'er2'qiang2	54412
 盘空	pan2'kong1	54413
 盘马弯弓	pan2'ma3'wan1'gong1	54414
 判读	pan4'du2	54415
@@ -55090,7 +55090,7 @@
 掰腕子	bai1'wan4'zi3	55090
 白铁皮	bai2'tie3'pi2	55091
 白眼儿狼	bai2'yan3'er'lang2	55092
-百分率	bai3'fen1'lv4	55093
+百分率	bai3'fen1'lü4	55093
 棒操	bang4'cao1	55094
 包伙	bao1'huo3	55095
 龅牙	bao1'ya2	55096
@@ -55136,7 +55136,7 @@
 齿龈	chi3'yin2	55136
 赤痢	chi4'li4	55137
 冲腾	chong1'teng2	55138
-重孙女	chong2'sun1'nv3	55139
+重孙女	chong2'sun1'nü3	55139
 酬对	chou2'dui4	55140
 丑时	chou3'shi2	55141
 出账	chu1'zhang4	55142
@@ -55452,7 +55452,7 @@
 生荒	sheng1'huang1	55452
 生皮	sheng1'pi2	55453
 声卡	sheng1'ka3	55454
-失学率	shi1'xue2'lv4	55455
+失学率	shi1'xue2'lü4	55455
 试表	shi4'biao3	55456
 是非窝	shi4'fei1'wo1	55457
 书名号	shu1'ming2'hao4	55458
@@ -55542,7 +55542,7 @@
 羽扇纶巾	yu3'shan4'guan1'jin1	55542
 语序	yu3'xu4	55543
 圆实	yuan2'shi2	55544
-乐律	yue4'lv4	55545
+乐律	yue4'lü4	55545
 窄幅	zhai3'fu2	55546
 毡笠	zhan1'li4	55547
 珍珠贝	zhen1'zhu1'bei4	55548
@@ -55821,7 +55821,7 @@
 沙浴	sha1'yu4	55821
 晒图	shai4'tu2	55822
 山高水低	shan1'gao1'shui3'di1	55823
-石女	shi2'nv3	55824
+石女	shi2'nü3	55824
 粟子	su4'zi3	55825
 台秤	tai2'cheng4	55826
 叹词	tan4'ci2	55827
