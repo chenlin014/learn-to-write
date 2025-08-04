@@ -1,0 +1,3 @@
+[submodule "bopomofo"]
+	path = bopomofo
+	url = https://github.com/Tocknicsu/bopomofo.git
