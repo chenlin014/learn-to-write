@@ -16,3 +16,7 @@
     - [liuxilu/Proofread-Modern-Chinese-Common-Lexicon](https://github.com/liuxilu/Proofread-Modern-Chinese-Common-Lexicon)
 - 八股文【繁體】
     - [rime-essay](https://github.com/rime/rime-essay)
+
+## 字典
+- [漢典](https://www.zdic.net/)
+- [國語辭典簡編本](https://dict.concised.moe.edu.tw/)
